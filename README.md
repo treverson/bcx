@@ -39,7 +39,7 @@ You also need git. On ubuntu (linux), git can be installed by issuing the follow
 sudo apt-get install git
 ``` 
 
-### Clone the bcx master branch.
+### Clone the bcx master branch
 
 After installing git you will be able to clone the master branch Clone from the
 Axlantic. It is important that you positioned in the folder where you want to
@@ -100,6 +100,18 @@ git push bcx <yourbranch>
 
 Finally, go to the Axlantic account on Github where you should be able to see
 your commit in the bcx repository.
+
+The ` git add .` command adds all files in the repository for staging (a file
+needs to be staged before it can be pushed). This is general not a goog practice
+since it will always push every package that is installed in the virtual
+environment. Instead, you should only stage the files that need to be pushed and
+include a requirements.txt file that contains all dependencies. The
+requirements.txt fiile should be located in the root directory (bcx in this case) To print a
+requirements.txt file you install the freeze package and execute the command
+
+```
+pip freeze > requirements.txt
+```
 
 # Useful git commands
 
