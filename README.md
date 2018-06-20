@@ -9,7 +9,7 @@ master branch.
 
 These instruction will let you commit to your development branch of the bcx repository.
 
-### Accept the invitation from Axlantic with your collaborator account.
+### Accept the invitation from Axlantic with your collaborator account
 
 You should receive an invitation to collaborate from the Axlantic account
 that you need to accept. Upon accepting the invitation you will gain access to you
@@ -80,7 +80,7 @@ git fetch --all
 git branch
 ```
 
-Now you should see the master branch and it should be the active branch (have a * next to it). You need to switch to your branch which is done by issuing the folloing command
+Now you should see the master branch and it should be the active branch (have a * next to it). You need to switch to your branch which is done by issuing the following command
 
 ```
 git checkout <yourbranch> 
