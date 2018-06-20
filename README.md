@@ -6,28 +6,22 @@ permissions to their development branch while only the Axlantic account,
 ,administered by Håkan Holmberg, has reading and writing permissions to the
 master branch.
 
-## Git / Github instructions for bcx repository
+## Git / Github instructions to the bcx repository
 
 These instruction will let you commit to your development branch of the bcx repository.
 
-### Install trading engine dependencies
-
-The trading engine project is based upon
-
-In order to make a first commmit you need to do the following
-
 ### Accept the invitation from Axlantic with your collaborator account.
 
-You should receive an invitation to collaborate from The Axlantic account
-that you need to accept. Upon acceptin the invitaion you will gain access to you
+You should receive an invitation to collaborate from the Axlantic account
+that you need to accept. Upon accepting the invitation you will gain access to you
 development branch of the bcx repository. 
  
 ### Prerequisites
 
-The trading engine platform should be developed within a virtual environment, in
+The trading engine platform should be developed within a virtual environment in
 order to keep track of dependencies. In order to setup a virtual environment you
 need the python package virtualenv which can be installed by the following
-terminal command:
+terminal command.
 
 ```
 sudo pip3 install virtualenv
@@ -41,32 +35,36 @@ sudo apt-get install git
 
 ### Clone the bcx master branch
 
-After installing git you will be able to clone the master branch Clone from the
-Axlantic. It is important that you positioned in the folder where you want to
+After installing git you will be able to clone the master branch of the bcx repository from the
+Axlantic account. It is important that you are positioned in the folder where you want to
 store the project i.e., if you want to store the bcx repository in ~/dev you
 should be postioned at ~/dev. To clone the master branch, issue the following
 command in a terminal.
 
+```
 git clone https://github.com/Axlantic/bcx.git
+```
 
 This will create a local copy of all branches of the bcx repository, including yours, on your computer.
 
 ### Activate the virtual environment 
 
 The bcx repository already includes a virtual environment so the only thing you
-need to do is to activate it. In a teminal, postion yourself in your local copy of the bcx repository (for
+need to do is to activate it. In a terminal, position yourself in your local copy of the bcx repository (for
 example ~/dev/bcx) and issue the following command.
 
+```
 source env/bin/activate
+```
 
 You will now see (env) before your username in the terminal window. From now on,
-we will continue to work in the virtual environment which means that all command
-will be issued for the terminal that is connected to the virtual environment.
+we will continue to work in the virtual environment which means that all commands
+will be issued in the terminal that is connected to the virtual environment.
 
 ### Configure the git repository
 Your local branch includes a git repository that needs to be configured. We need
-to tell the Axlantic account which user that is trying to commit to the
-bcx repository. This can be done by issuing the following commands the
+to tell the Axlantic account which user that is committing to the
+bcx repository. This can be done by issuing the following commands in the
 designated terminal
 
 ```
@@ -76,21 +74,20 @@ git config --global user.email "youremail"
 
 ### Create your first test commit to your branch of the bcx project
 
-Create a text file "misc.txt" in your local copy and add the line "My first commit" (and save it). After creating the text file issue the following commands in a terminal.
+Create a text file "misc.txt" in your local copy and add the line "My first commit" (and save it). After creating the text file, issue the following commands in a terminal.
 
 ```
 git fetch --all
 git branch
 ```
 
-Now you should see the master branch and it should be the active branch (first
-line to printed). You need to switch to your branch which is done by issuing the folloing command
+Now you should see the master branch and it should be the active branch (have a * next to it). You need to switch to your branch which is done by issuing the folloing command
 
 ```
 git checkout <yourbranch> 
 ```
 
-Now you  are ready to commit misc.txt to your branch by issuing the following commands
+Now you are ready to commit misc.txt to your branch by issuing the following commands
 
 ```
 git add . 
@@ -102,12 +99,12 @@ Finally, go to the Axlantic account on Github where you should be able to see
 your commit in the bcx repository.
 
 The ` git add .` command adds all files in the repository for staging (a file
-needs to be staged before it can be pushed). This is general not a goog practice
+needs to be staged before it can be pushed). This is in general not a good practice
 since it will always push every package that is installed in the virtual
-environment. Instead, you should only stage the files that need to be pushed and
+environment. Instead, you should only stage the files that needs to be pushed and
 include a requirements.txt file that contains all dependencies. The
-requirements.txt fiile should be located in the root directory (bcx in this case) To print a
-requirements.txt file you install the freeze package and execute the command
+requirements.txt file should be located in the root directory (bcx in this case). To print a
+requirements.txt file you need to install the freeze package and execute the command
 
 ```
 pip freeze > requirements.txt
@@ -115,24 +112,21 @@ pip freeze > requirements.txt
 
 # Useful git commands
 
-If you are tired of always have to type username and password when you commit
-you can save your login information issuing the following commands.
+You can save your login information issuing the following commands.
 
 ```
 git config --global credential.helper "cache --timeout=3600"
 
 ```
 
-This will makw Git store your password in cache for the number os second
-specified in timeout.
+This will make git store your password in cache for the number of seconds
+specified by the timeout option.
 
 
-# Starting the django development server  and inspecting the trading engine GUI
+# Starting the django development server and inspecting the trading engine GUI
 
-In order to start the django development server you need postion yourself in
-bcx/django-gentelella/gentelella and execute the following terminal command
- to issue the following
-command.
+In order to start the django development server you need to position yourself in
+bcx/django-gentelella/gentelella and execute the following terminal command.
 
 ```
 python manage.py runserver
