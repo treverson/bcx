@@ -25,54 +25,105 @@ You should receive an invitation to collaborate from The Axlantic account
 that you need to accept. Upon acceptin the invitaion you will gain access to you
 development branch of the bcx repository. 
  
-# Prerequisities
+### Prerequisites
 
 The trading engine platform should be developed within a virtual environment, in
 order to keep track of dependencies. In order to setup a virtual environment you
 need the python package virtualenv which can be installed by the following
 terminal command:
 
-'''sudo pip3 install virtualenv''' 
+```
+sudo pip3 install virtualenv
+```
 
-You also need git. On ubuntu (linux), git can be installed by issuing the following command in the terminal.
+You also need git. On ubuntu (linux), git can be installed by issuing the following command in a terminal.
 
-'''sudo apt-get install git''' 
+```
+sudo apt-get install git
+``` 
 
-# Push a first test commit to your branch of the bcx repository.
+### Clone the bcx master branch.
 
-1 - Clone the bcx master branch from the Axlantic account by issuing the following command in terminal (the command should be issued in the folder where you want to store the project i.e., if you want to store the bcx repository in ~/dev you should be postioned at ~/dev).
+After installing git you will be able to clone the master branch Clone from the
+Axlantic. It is important that you positioned in the folder where you want to
+store the project i.e., if you want to store the bcx repository in ~/dev you
+should be postioned at ~/dev. To clone the master branch, issue the following
+command in a terminal.
 
 git clone https://github.com/Axlantic/bcx.git
 
-This will create a local copy of all branches of the bcx repository on your computer.
+This will create a local copy of all branches of the bcx repository, including yours, on your computer.
 
-2 - Activate the virtual environment by issuing the following command (you need to be positioned in you local copy the bcx repository i.e., ~/dev/bcx).
+### Activate the virtual environment 
+
+The bcx repository already includes a virtual environment so the only thing you
+need to do is to activate it. In a teminal, postion yourself in your local copy of the bcx repository (for
+example ~/dev/bcx) and issue the following command.
 
 source env/bin/activate
 
-3 - Configure the git repository, that was included in your local copy of the bcx repository, by issuing the following command in terminal
+You will now see (env) before your username in the terminal window. From now on,
+we will continue to work in the virtual environment which means that all command
+will be issued for the terminal that is connected to the virtual environment.
 
+### Configure the git repository
+Your local branch includes a git repository that needs to be configured. We need
+to tell the Axlantic account which user that is trying to commit to the
+bcx repository. This can be done by issuing the following commands the
+designated terminal
+
+```
 git config --global user.name "yourusername"
-
 git config --global user.email "youremail"
+```
 
-This tells the Axlantic account which user that is trying to commit to the different branches of the bcx repository.
-  
-4 - Create your first test commit to your branch of the bcx project by creating a text file "misc.txt" in your local copy and add the line "My first commit" (and save it). After creating the text file issue the following commands in a terminal.
+### Create your first test commit to your branch of the bcx project
 
+Create a text file "misc.txt" in your local copy and add the line "My first commit" (and save it). After creating the text file issue the following commands in a terminal.
+
+```
 git fetch --all
 git branch
+```
 
-Now you should see the master branch and it should be the active branch (first line to printed).
+Now you should see the master branch and it should be the active branch (first
+line to printed). You need to switch to your branch which is done by issuing the folloing command
 
-5 - You need to switch to your branch which is done by issuing the folloing command
-
+```
 git checkout <yourbranch> 
+```
 
-6 - Now you  are ready to commit misc.txt to your branch by issuing the following commands
+Now you  are ready to commit misc.txt to your branch by issuing the following commands
 
+```
 git add . 
 git commit -m "my first commit"
 git push bcx <yourbranch>
+```
 
-7. You should now be able to see your commit in the bcx repository in the Axlantic account.
+Finally, go to the Axlantic account on Github where you should be able to see
+your commit in the bcx repository.
+
+# Useful git commands
+
+If you are tired of always have to type username and password when you commit
+you can save your login information issuing the following commands.
+
+```
+git config --global credential.helper "cache --timeout=3600"
+
+```
+
+This will makw Git store your password in cache for the number os second
+specified in timeout.
+
+
+# Starting the django development server  and inspecting the trading engine GUI
+
+In order to start the django development server you need to issue the following
+command.
+
+```
+git config --global credential.helper "cache --timeout=3600"
+
+```
