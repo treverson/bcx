@@ -2,8 +2,7 @@
 
 The bcx repository contains the master as well as development branches of the
 Axlantic trading engine project. Each collaborator has writing and reading
-permissions to their development branch while only the Axlantic account,
-,administered by Håkan Holmberg, has reading and writing permissions to the
+permissions to their development branch while only the Axlantic account, administered by Håkan Holmberg, has reading and writing permissions to the
 master branch.
 
 ## Git / Github instructions to the bcx repository
