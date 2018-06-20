@@ -1,27 +1,42 @@
-# bcx
-Trading engine development repository
-# Git / Github instruction s for bcx repository
+# Trading engine development repository
 
-# First commit of repository
+The bcx repository contains the master as well as development branches of the
+Axlantic trading engine project. Each collaborator has writing and reading
+permissions to their development branch while only the Axlantic account,
+,administered by Håkan Holmberg, has reading and writing permissions to the
+master branch.
 
-1 - Create a github repository
-2 - Invite collaborator accounts to the project using the main account (the account that owns the repository). You should include your personal user account as one of the collaborator accounts
-3 - Accept the invitation with your collaborator account.
-4 - Push the first commit of your local repository to the main account repository
-5 - Create one development branch for each collaborator
+## Git / Github instructions for bcx repository
+
+These instruction will let you:
+
+1 - Make your first commit to your development branch
+
+
+## Install trading engine dependencies
+
+The trading engine project is based upon
+
+In order to make a first commmit you need to do the following
+
+### Accept the invitation from Axlantic with your collaborator account.
+
+You should receive an invitation to collaborate from The Axlantic account
+that you need to accept. Upon acceptin the invitaion you will gain access to you
+development branch of the bcx repository. 
  
-
 # Prerequisities
 
-1 - Invitation from Axlantic to your github account
-2 - Confirmation from you with respect to the invitation
-3 - The python package virtualenv. On linux, you can install the package using the following command in the terminal.
+The trading engine platform should be developed within a virtual environment, in
+order to keep track of dependencies. In order to setup a virtual environment you
+need the python package virtualenv which can be installed by the following
+terminal command:
 
-sudo pip3 install virtualenv 
+'''sudo pip3 install virtualenv''' 
 
-4 - You need git. On ubuntu (linux), git can be installed by issuing the following command in the terminal.
+You also need git. On ubuntu (linux), git can be installed by issuing the following command in the terminal.
 
-sudo apt-get install git 
+'''sudo apt-get install git''' 
 
 # Push a first test commit to your branch of the bcx repository.
 
