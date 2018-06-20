@@ -8,12 +8,9 @@ master branch.
 
 ## Git / Github instructions for bcx repository
 
-These instruction will let you:
+These instruction will let you commit to your development branch of the bcx repository.
 
-1 - Make your first commit to your development branch
-
-
-## Install trading engine dependencies
+### Install trading engine dependencies
 
 The trading engine project is based upon
 
@@ -120,10 +117,29 @@ specified in timeout.
 
 # Starting the django development server  and inspecting the trading engine GUI
 
-In order to start the django development server you need to issue the following
+In order to start the django development server you need postion yourself in
+bcx/django-gentelella/gentelella and execute the following terminal command
+ to issue the following
 command.
 
 ```
-git config --global credential.helper "cache --timeout=3600"
+python manage.py runserver
 
 ```
+
+This will start the development server and you will be given an output such as
+
+
+```
+System check identified no issues (0 silenced).
+June 20, 2018 - 12:53:59
+Django version 1.10, using settings 'gentelella.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CONTROL-C.
+
+```
+In order to see the tradding engine GUI you simply copy the url (in this case
+http://127.0.0.1:8000/) and paste it in you web browser.
+
+
+
