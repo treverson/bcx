@@ -1,0 +1,1118 @@
+<?xml version="1.0" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg viewBox="0.00 0.00 2144.00 3548.00" xmlns:xlink="http://www.w3.org/1999/xlink" style="height:500px;width:960px;perspective-origin:480px 250px;transform-origin:480px 250px;" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 3544)" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform:matrix(1, 0, 0, 1, 4, 3544);transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">boxes_and_circles</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-3544 2140,-3544 2140,4 -4,4" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:rgb(255, 255, 255);stroke:rgba(0, 0, 0, 0);"/>
+<g id="clust1" class="cluster" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">cluster_cryptoTradeData</title>
+<polygon fill="none" stroke="#000000" points="8,-3154 8,-3532 1412,-3532 1412,-3154 8,-3154" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="710" y="-3505.5" font-family="Montserrat" font-size="25.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:25px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:712.078px 0px;transform-origin:0px 0px;text-anchor:middle;">Cryptocurrency data source layer</text>
+</g>
+<g id="clust2" class="cluster" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">cluster_certificateTradeData</title>
+<polygon fill="none" stroke="#000000" points="1420,-3154 1420,-3532 2128,-3532 2128,-3154 1420,-3154" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1774" y="-3505.5" font-family="Montserrat" font-size="25.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:25px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1776.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Certificate trade data source layer</text>
+</g>
+<g id="clust3" class="cluster" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">cluster_databaseLayer</title>
+<polygon fill="none" stroke="#000000" points="8,-2588 8,-3146 2122,-3146 2122,-2588 8,-2588" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1065" y="-3119.5" font-family="Montserrat" font-size="25.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:25px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1067.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Data processing layer</text>
+</g>
+<g id="clust4" class="cluster" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">cluster_Computationallayer</title>
+<polygon fill="none" stroke="#000000" points="693,-222 693,-2580 1427,-2580 1427,-222 693,-222" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1060" y="-2553.5" font-family="Montserrat" font-size="25.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:25px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1062.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Intelligence layer</text>
+</g>
+<g id="clust5" class="cluster" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">cluster_orderExecution</title>
+<polygon fill="none" stroke="#000000" points="818,-8 818,-214 1058,-214 1058,-8 818,-8" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="938" y="-187.5" font-family="Montserrat" font-size="25.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:25px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:940.078px 0px;transform-origin:0px 0px;text-anchor:middle;">Order execution layer</text>
+</g>
+<!-- BitMEX -->
+<g id="node1" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX</title>
+<path fill="none" stroke="#000000" d="M232,-3472.9091C232,-3480.1324 183.5927,-3486 124,-3486 64.4073,-3486 16,-3480.1324 16,-3472.9091 16,-3472.9091 16,-3355.0909 16,-3355.0909 16,-3347.8676 64.4073,-3342 124,-3342 183.5927,-3342 232,-3347.8676 232,-3355.0909 232,-3355.0909 232,-3472.9091 232,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 232 -3472.91 C 232 -3480.13 183.593 -3486 124 -3486 C 64.4073 -3486 16 -3480.13 16 -3472.91 C 16 -3472.91 16 -3355.09 16 -3355.09 C 16 -3347.87 64.4073 -3342 124 -3342 C 183.593 -3342 232 -3347.87 232 -3355.09 C 232 -3355.09 232 -3472.91 232 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M232,-3472.9091C232,-3465.6857 183.5927,-3459.8182 124,-3459.8182 64.4073,-3459.8182 16,-3465.6857 16,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 232 -3472.91 C 232 -3465.69 183.593 -3459.82 124 -3459.82 C 64.4073 -3459.82 16 -3465.69 16 -3472.91');"/>
+<text text-anchor="middle" x="124" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:124.578px 0px;transform-origin:0px 0px;text-anchor:middle;">BitMEX</text>
+</g>
+<!-- BitMEX 
+ ECTL -->
+<g id="node10" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="124,-3306 16,-3234 124,-3162 232,-3234 124,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="124" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:124.578px 0px;transform-origin:0px 0px;text-anchor:middle;">BitMEX </text>
+<text text-anchor="middle" x="124" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:125.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- BitMEX&#45;&gt;BitMEX 
+ ECTL -->
+<g id="edge1" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX-&gt;BitMEX 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M124,-3341.8243C124,-3333.4801 124,-3324.9229 124,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 124 -3341.82 C 124 -3333.48 124 -3324.92 124 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="127.5001,-3316.1919 124,-3306.1919 120.5001,-3316.192 127.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- GDAX -->
+<g id="node2" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX</title>
+<path fill="none" stroke="#000000" d="M936,-3472.9091C936,-3480.1324 887.5927,-3486 828,-3486 768.4073,-3486 720,-3480.1324 720,-3472.9091 720,-3472.9091 720,-3355.0909 720,-3355.0909 720,-3347.8676 768.4073,-3342 828,-3342 887.5927,-3342 936,-3347.8676 936,-3355.0909 936,-3355.0909 936,-3472.9091 936,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 936 -3472.91 C 936 -3480.13 887.593 -3486 828 -3486 C 768.407 -3486 720 -3480.13 720 -3472.91 C 720 -3472.91 720 -3355.09 720 -3355.09 C 720 -3347.87 768.407 -3342 828 -3342 C 887.593 -3342 936 -3347.87 936 -3355.09 C 936 -3355.09 936 -3472.91 936 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M936,-3472.9091C936,-3465.6857 887.5927,-3459.8182 828,-3459.8182 768.4073,-3459.8182 720,-3465.6857 720,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 936 -3472.91 C 936 -3465.69 887.593 -3459.82 828 -3459.82 C 768.407 -3459.82 720 -3465.69 720 -3472.91');"/>
+<text text-anchor="middle" x="828" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:828.578px 0px;transform-origin:0px 0px;text-anchor:middle;">GDAX</text>
+</g>
+<!-- GDAX 
+ ECTL -->
+<g id="node11" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="828,-3306 720,-3234 828,-3162 936,-3234 828,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="828" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:828.578px 0px;transform-origin:0px 0px;text-anchor:middle;">GDAX </text>
+<text text-anchor="middle" x="828" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:829.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- GDAX&#45;&gt;GDAX 
+ ECTL -->
+<g id="edge2" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX-&gt;GDAX 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M828,-3341.8243C828,-3333.4801 828,-3324.9229 828,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 828 -3341.82 C 828 -3333.48 828 -3324.92 828 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="831.5001,-3316.1919 828,-3306.1919 824.5001,-3316.192 831.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Gemini -->
+<g id="node3" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini</title>
+<path fill="none" stroke="#000000" d="M702,-3472.9091C702,-3480.1324 653.5927,-3486 594,-3486 534.4073,-3486 486,-3480.1324 486,-3472.9091 486,-3472.9091 486,-3355.0909 486,-3355.0909 486,-3347.8676 534.4073,-3342 594,-3342 653.5927,-3342 702,-3347.8676 702,-3355.0909 702,-3355.0909 702,-3472.9091 702,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -3472.91 C 702 -3480.13 653.593 -3486 594 -3486 C 534.407 -3486 486 -3480.13 486 -3472.91 C 486 -3472.91 486 -3355.09 486 -3355.09 C 486 -3347.87 534.407 -3342 594 -3342 C 653.593 -3342 702 -3347.87 702 -3355.09 C 702 -3355.09 702 -3472.91 702 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M702,-3472.9091C702,-3465.6857 653.5927,-3459.8182 594,-3459.8182 534.4073,-3459.8182 486,-3465.6857 486,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -3472.91 C 702 -3465.69 653.593 -3459.82 594 -3459.82 C 534.407 -3459.82 486 -3465.69 486 -3472.91');"/>
+<text text-anchor="middle" x="594" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:594.859px 0px;transform-origin:0px 0px;text-anchor:middle;">Gemini</text>
+</g>
+<!-- Gemini 
+ &#160;ECTL -->
+<g id="node12" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+  ECTL</title>
+<polygon fill="none" stroke="#000000" points="594,-3306 486,-3234 594,-3162 702,-3234 594,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="594" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:594.859px 0px;transform-origin:0px 0px;text-anchor:middle;">Gemini </text>
+<text text-anchor="middle" x="594" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:597.844px 0px;transform-origin:0px 0px;text-anchor:middle;">  ECTL</text>
+</g>
+<!-- Gemini&#45;&gt;Gemini 
+ &#160;ECTL -->
+<g id="edge3" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini-&gt;Gemini 
+  ECTL</title>
+<path fill="none" stroke="#000000" d="M594,-3341.8243C594,-3333.4801 594,-3324.9229 594,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 594 -3341.82 C 594 -3333.48 594 -3324.92 594 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="597.5001,-3316.1919 594,-3306.1919 590.5001,-3316.192 597.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Nasdaq -->
+<g id="node4" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq</title>
+<path fill="none" stroke="#000000" d="M2120,-3472.9091C2120,-3480.1324 2071.5927,-3486 2012,-3486 1952.4073,-3486 1904,-3480.1324 1904,-3472.9091 1904,-3472.9091 1904,-3355.0909 1904,-3355.0909 1904,-3347.8676 1952.4073,-3342 2012,-3342 2071.5927,-3342 2120,-3347.8676 2120,-3355.0909 2120,-3355.0909 2120,-3472.9091 2120,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2120 -3472.91 C 2120 -3480.13 2071.59 -3486 2012 -3486 C 1952.41 -3486 1904 -3480.13 1904 -3472.91 C 1904 -3472.91 1904 -3355.09 1904 -3355.09 C 1904 -3347.87 1952.41 -3342 2012 -3342 C 2071.59 -3342 2120 -3347.87 2120 -3355.09 C 2120 -3355.09 2120 -3472.91 2120 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M2120,-3472.9091C2120,-3465.6857 2071.5927,-3459.8182 2012,-3459.8182 1952.4073,-3459.8182 1904,-3465.6857 1904,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2120 -3472.91 C 2120 -3465.69 2071.59 -3459.82 2012 -3459.82 C 1952.41 -3459.82 1904 -3465.69 1904 -3472.91');"/>
+<text text-anchor="middle" x="2012" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2012.36px 0px;transform-origin:0px 0px;text-anchor:middle;">Nasdaq</text>
+</g>
+<!-- Nasdaq 
+ ECTL -->
+<g id="node18" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="2012,-3306 1904,-3234 2012,-3162 2120,-3234 2012,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="2012" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2012.36px 0px;transform-origin:0px 0px;text-anchor:middle;">Nasdaq </text>
+<text text-anchor="middle" x="2012" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2013.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- Nasdaq&#45;&gt;Nasdaq 
+ ECTL -->
+<g id="edge9" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq-&gt;Nasdaq 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M2012,-3341.8243C2012,-3333.4801 2012,-3324.9229 2012,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2012 -3341.82 C 2012 -3333.48 2012 -3324.92 2012 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="2015.5001,-3316.1919 2012,-3306.1919 2008.5001,-3316.192 2015.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Clearing House -->
+<g id="node5" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House</title>
+<path fill="none" stroke="#000000" d="M1882,-3472.9091C1882,-3480.1324 1833.5927,-3486 1774,-3486 1714.4073,-3486 1666,-3480.1324 1666,-3472.9091 1666,-3472.9091 1666,-3355.0909 1666,-3355.0909 1666,-3347.8676 1714.4073,-3342 1774,-3342 1833.5927,-3342 1882,-3347.8676 1882,-3355.0909 1882,-3355.0909 1882,-3472.9091 1882,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1882 -3472.91 C 1882 -3480.13 1833.59 -3486 1774 -3486 C 1714.41 -3486 1666 -3480.13 1666 -3472.91 C 1666 -3472.91 1666 -3355.09 1666 -3355.09 C 1666 -3347.87 1714.41 -3342 1774 -3342 C 1833.59 -3342 1882 -3347.87 1882 -3355.09 C 1882 -3355.09 1882 -3472.91 1882 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M1882,-3472.9091C1882,-3465.6857 1833.5927,-3459.8182 1774,-3459.8182 1714.4073,-3459.8182 1666,-3465.6857 1666,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1882 -3472.91 C 1882 -3465.69 1833.59 -3459.82 1774 -3459.82 C 1714.41 -3459.82 1666 -3465.69 1666 -3472.91');"/>
+<text text-anchor="middle" x="1774" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1775.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Clearing House</text>
+</g>
+<!-- Clearing House 
+ ECTL -->
+<g id="node16" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="1774,-3306 1661.9417,-3234 1774,-3162 1886.0583,-3234 1774,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1774" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1775.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Clearing House </text>
+<text text-anchor="middle" x="1774" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1775.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- Clearing House&#45;&gt;Clearing House 
+ ECTL -->
+<g id="edge7" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House-&gt;Clearing House 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M1774,-3341.8243C1774,-3333.4801 1774,-3324.9229 1774,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1774 -3341.82 C 1774 -3333.48 1774 -3324.92 1774 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1777.5001,-3316.1919 1774,-3306.1919 1770.5001,-3316.192 1777.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Market Maker -->
+<g id="node6" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker</title>
+<path fill="none" stroke="#000000" d="M1644,-3472.9091C1644,-3480.1324 1595.5927,-3486 1536,-3486 1476.4073,-3486 1428,-3480.1324 1428,-3472.9091 1428,-3472.9091 1428,-3355.0909 1428,-3355.0909 1428,-3347.8676 1476.4073,-3342 1536,-3342 1595.5927,-3342 1644,-3347.8676 1644,-3355.0909 1644,-3355.0909 1644,-3472.9091 1644,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1644 -3472.91 C 1644 -3480.13 1595.59 -3486 1536 -3486 C 1476.41 -3486 1428 -3480.13 1428 -3472.91 C 1428 -3472.91 1428 -3355.09 1428 -3355.09 C 1428 -3347.87 1476.41 -3342 1536 -3342 C 1595.59 -3342 1644 -3347.87 1644 -3355.09 C 1644 -3355.09 1644 -3472.91 1644 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M1644,-3472.9091C1644,-3465.6857 1595.5927,-3459.8182 1536,-3459.8182 1476.4073,-3459.8182 1428,-3465.6857 1428,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1644 -3472.91 C 1644 -3465.69 1595.59 -3459.82 1536 -3459.82 C 1476.41 -3459.82 1428 -3465.69 1428 -3472.91');"/>
+<text text-anchor="middle" x="1536" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1539.11px 0px;transform-origin:0px 0px;text-anchor:middle;">Market Maker</text>
+</g>
+<!-- Market Maker 
+ ECTL -->
+<g id="node17" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="1536,-3306 1428,-3234 1536,-3162 1644,-3234 1536,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1536" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1539.11px 0px;transform-origin:0px 0px;text-anchor:middle;">Market Maker </text>
+<text text-anchor="middle" x="1536" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1537.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- Market Maker&#45;&gt;Market Maker 
+ ECTL -->
+<g id="edge8" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker-&gt;Market Maker 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M1536,-3341.8243C1536,-3333.4801 1536,-3324.9229 1536,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1536 -3341.82 C 1536 -3333.48 1536 -3324.92 1536 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1539.5001,-3316.1919 1536,-3306.1919 1532.5001,-3316.192 1539.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Cold Storage Provider -->
+<g id="node7" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage Provider</title>
+<path fill="none" stroke="#000000" d="M1170,-3472.9091C1170,-3480.1324 1121.5927,-3486 1062,-3486 1002.4073,-3486 954,-3480.1324 954,-3472.9091 954,-3472.9091 954,-3355.0909 954,-3355.0909 954,-3347.8676 1002.4073,-3342 1062,-3342 1121.5927,-3342 1170,-3347.8676 1170,-3355.0909 1170,-3355.0909 1170,-3472.9091 1170,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1170 -3472.91 C 1170 -3480.13 1121.59 -3486 1062 -3486 C 1002.41 -3486 954 -3480.13 954 -3472.91 C 954 -3472.91 954 -3355.09 954 -3355.09 C 954 -3347.87 1002.41 -3342 1062 -3342 C 1121.59 -3342 1170 -3347.87 1170 -3355.09 C 1170 -3355.09 1170 -3472.91 1170 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M1170,-3472.9091C1170,-3465.6857 1121.5927,-3459.8182 1062,-3459.8182 1002.4073,-3459.8182 954,-3465.6857 954,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1170 -3472.91 C 1170 -3465.69 1121.59 -3459.82 1062 -3459.82 C 1002.41 -3459.82 954 -3465.69 954 -3472.91');"/>
+<text text-anchor="middle" x="1062" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1065.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Cold Storage Provider</text>
+</g>
+<!-- Cold Storage 
+ Provider 
+ ECTL -->
+<g id="node14" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage 
+ Provider 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="1062,-3306 954,-3234 1062,-3162 1170,-3234 1062,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1062" y="-3252" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1063.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Cold Storage </text>
+<text text-anchor="middle" x="1062" y="-3228" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1065.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> Provider </text>
+<text text-anchor="middle" x="1062" y="-3204" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1063.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- Cold Storage Provider&#45;&gt;Cold Storage 
+ Provider 
+ ECTL -->
+<g id="edge5" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage Provider-&gt;Cold Storage 
+ Provider 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M1062,-3341.8243C1062,-3333.4801 1062,-3324.9229 1062,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1062 -3341.82 C 1062 -3333.48 1062 -3324.92 1062 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1065.5001,-3316.1919 1062,-3306.1919 1058.5001,-3316.192 1065.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Blockchains -->
+<g id="node8" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains</title>
+<path fill="none" stroke="#000000" d="M1404,-3472.9091C1404,-3480.1324 1355.5927,-3486 1296,-3486 1236.4073,-3486 1188,-3480.1324 1188,-3472.9091 1188,-3472.9091 1188,-3355.0909 1188,-3355.0909 1188,-3347.8676 1236.4073,-3342 1296,-3342 1355.5927,-3342 1404,-3347.8676 1404,-3355.0909 1404,-3355.0909 1404,-3472.9091 1404,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1404 -3472.91 C 1404 -3480.13 1355.59 -3486 1296 -3486 C 1236.41 -3486 1188 -3480.13 1188 -3472.91 C 1188 -3472.91 1188 -3355.09 1188 -3355.09 C 1188 -3347.87 1236.41 -3342 1296 -3342 C 1355.59 -3342 1404 -3347.87 1404 -3355.09 C 1404 -3355.09 1404 -3472.91 1404 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M1404,-3472.9091C1404,-3465.6857 1355.5927,-3459.8182 1296,-3459.8182 1236.4073,-3459.8182 1188,-3465.6857 1188,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1404 -3472.91 C 1404 -3465.69 1355.59 -3459.82 1296 -3459.82 C 1236.41 -3459.82 1188 -3465.69 1188 -3472.91');"/>
+<text text-anchor="middle" x="1296" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1298.22px 0px;transform-origin:0px 0px;text-anchor:middle;">Blockchains</text>
+</g>
+<!-- Blockchains 
+ ECTL -->
+<g id="node15" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="1296,-3306 1188,-3234 1296,-3162 1404,-3234 1296,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1296" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1298.22px 0px;transform-origin:0px 0px;text-anchor:middle;">Blockchains </text>
+<text text-anchor="middle" x="1296" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1297.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- Blockchains&#45;&gt;Blockchains 
+ ECTL -->
+<g id="edge6" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains-&gt;Blockchains 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M1296,-3341.8243C1296,-3333.4801 1296,-3324.9229 1296,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1296 -3341.82 C 1296 -3333.48 1296 -3324.92 1296 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1299.5001,-3316.1919 1296,-3306.1919 1292.5001,-3316.192 1299.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- OTC providers -->
+<g id="node9" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers</title>
+<path fill="none" stroke="#000000" d="M467,-3472.9091C467,-3480.1324 418.5927,-3486 359,-3486 299.4073,-3486 251,-3480.1324 251,-3472.9091 251,-3472.9091 251,-3355.0909 251,-3355.0909 251,-3347.8676 299.4073,-3342 359,-3342 418.5927,-3342 467,-3347.8676 467,-3355.0909 467,-3355.0909 467,-3472.9091 467,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 467 -3472.91 C 467 -3480.13 418.593 -3486 359 -3486 C 299.407 -3486 251 -3480.13 251 -3472.91 C 251 -3472.91 251 -3355.09 251 -3355.09 C 251 -3347.87 299.407 -3342 359 -3342 C 418.593 -3342 467 -3347.87 467 -3355.09 C 467 -3355.09 467 -3472.91 467 -3472.91');"/>
+<path fill="none" stroke="#000000" d="M467,-3472.9091C467,-3465.6857 418.5927,-3459.8182 359,-3459.8182 299.4073,-3459.8182 251,-3465.6857 251,-3472.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 467 -3472.91 C 467 -3465.69 418.593 -3459.82 359 -3459.82 C 299.407 -3459.82 251 -3465.69 251 -3472.91');"/>
+<text text-anchor="middle" x="359" y="-3408" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:361.219px 0px;transform-origin:0px 0px;text-anchor:middle;">OTC providers</text>
+</g>
+<!-- OTC providers 
+ ECTL -->
+<g id="node13" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ ECTL</title>
+<polygon fill="none" stroke="#000000" points="359,-3306 250.2541,-3234 359,-3162 467.7459,-3234 359,-3306" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="359" y="-3240" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:361.219px 0px;transform-origin:0px 0px;text-anchor:middle;">OTC providers </text>
+<text text-anchor="middle" x="359" y="-3216" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:360.25px 0px;transform-origin:0px 0px;text-anchor:middle;"> ECTL</text>
+</g>
+<!-- OTC providers&#45;&gt;OTC providers 
+ ECTL -->
+<g id="edge4" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers-&gt;OTC providers 
+ ECTL</title>
+<path fill="none" stroke="#000000" d="M359,-3341.8243C359,-3333.4801 359,-3324.9229 359,-3316.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 359 -3341.82 C 359 -3333.48 359 -3324.92 359 -3316.46');"/>
+<polygon fill="#000000" stroke="#000000" points="362.5001,-3316.1919 359,-3306.1919 355.5001,-3316.192 362.5001,-3316.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- BitMEX 
+ landing table -->
+<g id="node19" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M232,-3086.9091C232,-3094.1324 183.5927,-3100 124,-3100 64.4073,-3100 16,-3094.1324 16,-3086.9091 16,-3086.9091 16,-2969.0909 16,-2969.0909 16,-2961.8676 64.4073,-2956 124,-2956 183.5927,-2956 232,-2961.8676 232,-2969.0909 232,-2969.0909 232,-3086.9091 232,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 232 -3086.91 C 232 -3094.13 183.593 -3100 124 -3100 C 64.4073 -3100 16 -3094.13 16 -3086.91 C 16 -3086.91 16 -2969.09 16 -2969.09 C 16 -2961.87 64.4073 -2956 124 -2956 C 183.593 -2956 232 -2961.87 232 -2969.09 C 232 -2969.09 232 -3086.91 232 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M232,-3086.9091C232,-3079.6857 183.5927,-3073.8182 124,-3073.8182 64.4073,-3073.8182 16,-3079.6857 16,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 232 -3086.91 C 232 -3079.69 183.593 -3073.82 124 -3073.82 C 64.4073 -3073.82 16 -3079.69 16 -3086.91');"/>
+<text text-anchor="middle" x="124" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:124.578px 0px;transform-origin:0px 0px;text-anchor:middle;">BitMEX </text>
+<text text-anchor="middle" x="124" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:125.078px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- BitMEX 
+ ECTL&#45;&gt;BitMEX 
+ landing table -->
+<g id="edge10" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ ECTL-&gt;BitMEX 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M124,-3161.9512C124,-3145.1721 124,-3127.1849 124,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 124 -3161.95 C 124 -3145.17 124 -3127.18 124 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="127.5001,-3110.0081 124,-3100.0081 120.5001,-3110.0082 127.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- GDAX 
+ landing table -->
+<g id="node20" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M936,-3086.9091C936,-3094.1324 887.5927,-3100 828,-3100 768.4073,-3100 720,-3094.1324 720,-3086.9091 720,-3086.9091 720,-2969.0909 720,-2969.0909 720,-2961.8676 768.4073,-2956 828,-2956 887.5927,-2956 936,-2961.8676 936,-2969.0909 936,-2969.0909 936,-3086.9091 936,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 936 -3086.91 C 936 -3094.13 887.593 -3100 828 -3100 C 768.407 -3100 720 -3094.13 720 -3086.91 C 720 -3086.91 720 -2969.09 720 -2969.09 C 720 -2961.87 768.407 -2956 828 -2956 C 887.593 -2956 936 -2961.87 936 -2969.09 C 936 -2969.09 936 -3086.91 936 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M936,-3086.9091C936,-3079.6857 887.5927,-3073.8182 828,-3073.8182 768.4073,-3073.8182 720,-3079.6857 720,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 936 -3086.91 C 936 -3079.69 887.593 -3073.82 828 -3073.82 C 768.407 -3073.82 720 -3079.69 720 -3086.91');"/>
+<text text-anchor="middle" x="828" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:828.578px 0px;transform-origin:0px 0px;text-anchor:middle;">GDAX </text>
+<text text-anchor="middle" x="828" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:829.078px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- GDAX 
+ ECTL&#45;&gt;GDAX 
+ landing table -->
+<g id="edge11" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ ECTL-&gt;GDAX 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M828,-3161.9512C828,-3145.1721 828,-3127.1849 828,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 828 -3161.95 C 828 -3145.17 828 -3127.18 828 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="831.5001,-3110.0081 828,-3100.0081 824.5001,-3110.0082 831.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Gemini 
+ &#160;landing table -->
+<g id="node21" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+  landing table</title>
+<path fill="none" stroke="#000000" d="M702,-3086.9091C702,-3094.1324 653.5927,-3100 594,-3100 534.4073,-3100 486,-3094.1324 486,-3086.9091 486,-3086.9091 486,-2969.0909 486,-2969.0909 486,-2961.8676 534.4073,-2956 594,-2956 653.5927,-2956 702,-2961.8676 702,-2969.0909 702,-2969.0909 702,-3086.9091 702,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -3086.91 C 702 -3094.13 653.593 -3100 594 -3100 C 534.407 -3100 486 -3094.13 486 -3086.91 C 486 -3086.91 486 -2969.09 486 -2969.09 C 486 -2961.87 534.407 -2956 594 -2956 C 653.593 -2956 702 -2961.87 702 -2969.09 C 702 -2969.09 702 -3086.91 702 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M702,-3086.9091C702,-3079.6857 653.5927,-3073.8182 594,-3073.8182 534.4073,-3073.8182 486,-3079.6857 486,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -3086.91 C 702 -3079.69 653.593 -3073.82 594 -3073.82 C 534.407 -3073.82 486 -3079.69 486 -3086.91');"/>
+<text text-anchor="middle" x="594" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:594.859px 0px;transform-origin:0px 0px;text-anchor:middle;">Gemini </text>
+<text text-anchor="middle" x="594" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:597.688px 0px;transform-origin:0px 0px;text-anchor:middle;">  landing table</text>
+</g>
+<!-- Gemini 
+ &#160;ECTL&#45;&gt;Gemini 
+ &#160;landing table -->
+<g id="edge12" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+  ECTL-&gt;Gemini 
+  landing table</title>
+<path fill="none" stroke="#000000" d="M594,-3161.9512C594,-3145.1721 594,-3127.1849 594,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 594 -3161.95 C 594 -3145.17 594 -3127.18 594 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="597.5001,-3110.0081 594,-3100.0081 590.5001,-3110.0082 597.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- OTC providers 
+ landing table -->
+<g id="node22" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M467,-3086.9091C467,-3094.1324 418.5927,-3100 359,-3100 299.4073,-3100 251,-3094.1324 251,-3086.9091 251,-3086.9091 251,-2969.0909 251,-2969.0909 251,-2961.8676 299.4073,-2956 359,-2956 418.5927,-2956 467,-2961.8676 467,-2969.0909 467,-2969.0909 467,-3086.9091 467,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 467 -3086.91 C 467 -3094.13 418.593 -3100 359 -3100 C 299.407 -3100 251 -3094.13 251 -3086.91 C 251 -3086.91 251 -2969.09 251 -2969.09 C 251 -2961.87 299.407 -2956 359 -2956 C 418.593 -2956 467 -2961.87 467 -2969.09 C 467 -2969.09 467 -3086.91 467 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M467,-3086.9091C467,-3079.6857 418.5927,-3073.8182 359,-3073.8182 299.4073,-3073.8182 251,-3079.6857 251,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 467 -3086.91 C 467 -3079.69 418.593 -3073.82 359 -3073.82 C 299.407 -3073.82 251 -3079.69 251 -3086.91');"/>
+<text text-anchor="middle" x="359" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:361.219px 0px;transform-origin:0px 0px;text-anchor:middle;">OTC providers </text>
+<text text-anchor="middle" x="359" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:360.078px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- OTC providers 
+ ECTL&#45;&gt;OTC providers 
+ landing table -->
+<g id="edge13" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ ECTL-&gt;OTC providers 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M359,-3161.9512C359,-3145.1721 359,-3127.1849 359,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 359 -3161.95 C 359 -3145.17 359 -3127.18 359 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="362.5001,-3110.0081 359,-3100.0081 355.5001,-3110.0082 362.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Cold Storage Provider 
+ landing table -->
+<g id="node23" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage Provider 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1170,-3086.9091C1170,-3094.1324 1121.5927,-3100 1062,-3100 1002.4073,-3100 954,-3094.1324 954,-3086.9091 954,-3086.9091 954,-2969.0909 954,-2969.0909 954,-2961.8676 1002.4073,-2956 1062,-2956 1121.5927,-2956 1170,-2961.8676 1170,-2969.0909 1170,-2969.0909 1170,-3086.9091 1170,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1170 -3086.91 C 1170 -3094.13 1121.59 -3100 1062 -3100 C 1002.41 -3100 954 -3094.13 954 -3086.91 C 954 -3086.91 954 -2969.09 954 -2969.09 C 954 -2961.87 1002.41 -2956 1062 -2956 C 1121.59 -2956 1170 -2961.87 1170 -2969.09 C 1170 -2969.09 1170 -3086.91 1170 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M1170,-3086.9091C1170,-3079.6857 1121.5927,-3073.8182 1062,-3073.8182 1002.4073,-3073.8182 954,-3079.6857 954,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1170 -3086.91 C 1170 -3079.69 1121.59 -3073.82 1062 -3073.82 C 1002.41 -3073.82 954 -3079.69 954 -3086.91');"/>
+<text text-anchor="middle" x="1062" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1065.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Cold Storage Provider </text>
+<text text-anchor="middle" x="1062" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1063.08px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- Cold Storage 
+ Provider 
+ ECTL&#45;&gt;Cold Storage Provider 
+ landing table -->
+<g id="edge14" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage 
+ Provider 
+ ECTL-&gt;Cold Storage Provider 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1062,-3161.9512C1062,-3145.1721 1062,-3127.1849 1062,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1062 -3161.95 C 1062 -3145.17 1062 -3127.18 1062 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="1065.5001,-3110.0081 1062,-3100.0081 1058.5001,-3110.0082 1065.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Blockchains 
+ landing table -->
+<g id="node24" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1404,-3086.9091C1404,-3094.1324 1355.5927,-3100 1296,-3100 1236.4073,-3100 1188,-3094.1324 1188,-3086.9091 1188,-3086.9091 1188,-2969.0909 1188,-2969.0909 1188,-2961.8676 1236.4073,-2956 1296,-2956 1355.5927,-2956 1404,-2961.8676 1404,-2969.0909 1404,-2969.0909 1404,-3086.9091 1404,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1404 -3086.91 C 1404 -3094.13 1355.59 -3100 1296 -3100 C 1236.41 -3100 1188 -3094.13 1188 -3086.91 C 1188 -3086.91 1188 -2969.09 1188 -2969.09 C 1188 -2961.87 1236.41 -2956 1296 -2956 C 1355.59 -2956 1404 -2961.87 1404 -2969.09 C 1404 -2969.09 1404 -3086.91 1404 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M1404,-3086.9091C1404,-3079.6857 1355.5927,-3073.8182 1296,-3073.8182 1236.4073,-3073.8182 1188,-3079.6857 1188,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1404 -3086.91 C 1404 -3079.69 1355.59 -3073.82 1296 -3073.82 C 1236.41 -3073.82 1188 -3079.69 1188 -3086.91');"/>
+<text text-anchor="middle" x="1296" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1298.22px 0px;transform-origin:0px 0px;text-anchor:middle;">Blockchains </text>
+<text text-anchor="middle" x="1296" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1297.08px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- Blockchains 
+ ECTL&#45;&gt;Blockchains 
+ landing table -->
+<g id="edge15" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ ECTL-&gt;Blockchains 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1296,-3161.9512C1296,-3145.1721 1296,-3127.1849 1296,-3110.0108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1296 -3161.95 C 1296 -3145.17 1296 -3127.18 1296 -3110.01');"/>
+<polygon fill="#000000" stroke="#000000" points="1299.5001,-3110.0081 1296,-3100.0081 1292.5001,-3110.0082 1299.5001,-3110.0081" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Clearing House 
+ landing table -->
+<g id="node25" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1878,-3086.9091C1878,-3094.1324 1829.5927,-3100 1770,-3100 1710.4073,-3100 1662,-3094.1324 1662,-3086.9091 1662,-3086.9091 1662,-2969.0909 1662,-2969.0909 1662,-2961.8676 1710.4073,-2956 1770,-2956 1829.5927,-2956 1878,-2961.8676 1878,-2969.0909 1878,-2969.0909 1878,-3086.9091 1878,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1878 -3086.91 C 1878 -3094.13 1829.59 -3100 1770 -3100 C 1710.41 -3100 1662 -3094.13 1662 -3086.91 C 1662 -3086.91 1662 -2969.09 1662 -2969.09 C 1662 -2961.87 1710.41 -2956 1770 -2956 C 1829.59 -2956 1878 -2961.87 1878 -2969.09 C 1878 -2969.09 1878 -3086.91 1878 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M1878,-3086.9091C1878,-3079.6857 1829.5927,-3073.8182 1770,-3073.8182 1710.4073,-3073.8182 1662,-3079.6857 1662,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1878 -3086.91 C 1878 -3079.69 1829.59 -3073.82 1770 -3073.82 C 1710.41 -3073.82 1662 -3079.69 1662 -3086.91');"/>
+<text text-anchor="middle" x="1770" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1771.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Clearing House </text>
+<text text-anchor="middle" x="1770" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1771.08px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- Clearing House 
+ ECTL&#45;&gt;Clearing House 
+ landing table -->
+<g id="edge16" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ ECTL-&gt;Clearing House 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1772.6178,-3162.818C1772.2894,-3145.9025 1771.9363,-3127.7173 1771.599,-3110.349" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1772.62 -3162.82 C 1772.29 -3145.9 1771.94 -3127.72 1771.6 -3110.35');"/>
+<polygon fill="#000000" stroke="#000000" points="1775.0962,-3110.1632 1771.4026,-3100.2331 1768.0975,-3110.2992 1775.0962,-3110.1632" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Market Maker 
+ landing table -->
+<g id="node26" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1638,-3086.9091C1638,-3094.1324 1589.5927,-3100 1530,-3100 1470.4073,-3100 1422,-3094.1324 1422,-3086.9091 1422,-3086.9091 1422,-2969.0909 1422,-2969.0909 1422,-2961.8676 1470.4073,-2956 1530,-2956 1589.5927,-2956 1638,-2961.8676 1638,-2969.0909 1638,-2969.0909 1638,-3086.9091 1638,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1638 -3086.91 C 1638 -3094.13 1589.59 -3100 1530 -3100 C 1470.41 -3100 1422 -3094.13 1422 -3086.91 C 1422 -3086.91 1422 -2969.09 1422 -2969.09 C 1422 -2961.87 1470.41 -2956 1530 -2956 C 1589.59 -2956 1638 -2961.87 1638 -2969.09 C 1638 -2969.09 1638 -3086.91 1638 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M1638,-3086.9091C1638,-3079.6857 1589.5927,-3073.8182 1530,-3073.8182 1470.4073,-3073.8182 1422,-3079.6857 1422,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1638 -3086.91 C 1638 -3079.69 1589.59 -3073.82 1530 -3073.82 C 1470.41 -3073.82 1422 -3079.69 1422 -3086.91');"/>
+<text text-anchor="middle" x="1530" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1533.11px 0px;transform-origin:0px 0px;text-anchor:middle;">Market Maker </text>
+<text text-anchor="middle" x="1530" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1531.08px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- Market Maker 
+ ECTL&#45;&gt;Market Maker 
+ landing table -->
+<g id="edge17" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ ECTL-&gt;Market Maker 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M1533.9351,-3163.1065C1533.4392,-3146.0808 1532.9055,-3127.7547 1532.396,-3110.2612" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1533.94 -3163.11 C 1533.44 -3146.08 1532.91 -3127.75 1532.4 -3110.26');"/>
+<polygon fill="#000000" stroke="#000000" points="1535.889,-3109.9675 1532.0992,-3100.0737 1528.892,-3110.1714 1535.889,-3109.9675" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Nasdaq 
+ landing table -->
+<g id="node27" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M2114,-3086.9091C2114,-3094.1324 2065.5927,-3100 2006,-3100 1946.4073,-3100 1898,-3094.1324 1898,-3086.9091 1898,-3086.9091 1898,-2969.0909 1898,-2969.0909 1898,-2961.8676 1946.4073,-2956 2006,-2956 2065.5927,-2956 2114,-2961.8676 2114,-2969.0909 2114,-2969.0909 2114,-3086.9091 2114,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2114 -3086.91 C 2114 -3094.13 2065.59 -3100 2006 -3100 C 1946.41 -3100 1898 -3094.13 1898 -3086.91 C 1898 -3086.91 1898 -2969.09 1898 -2969.09 C 1898 -2961.87 1946.41 -2956 2006 -2956 C 2065.59 -2956 2114 -2961.87 2114 -2969.09 C 2114 -2969.09 2114 -3086.91 2114 -3086.91');"/>
+<path fill="none" stroke="#000000" d="M2114,-3086.9091C2114,-3079.6857 2065.5927,-3073.8182 2006,-3073.8182 1946.4073,-3073.8182 1898,-3079.6857 1898,-3086.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2114 -3086.91 C 2114 -3079.69 2065.59 -3073.82 2006 -3073.82 C 1946.41 -3073.82 1898 -3079.69 1898 -3086.91');"/>
+<text text-anchor="middle" x="2006" y="-3034" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2006.36px 0px;transform-origin:0px 0px;text-anchor:middle;">Nasdaq </text>
+<text text-anchor="middle" x="2006" y="-3010" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2007.08px 0px;transform-origin:0px 0px;text-anchor:middle;"> landing table</text>
+</g>
+<!-- Nasdaq 
+ ECTL&#45;&gt;Nasdaq 
+ landing table -->
+<g id="edge18" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ ECTL-&gt;Nasdaq 
+ landing table</title>
+<path fill="none" stroke="#000000" d="M2009.9351,-3163.1065C2009.4392,-3146.0808 2008.9055,-3127.7547 2008.396,-3110.2612" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2009.94 -3163.11 C 2009.44 -3146.08 2008.91 -3127.75 2008.4 -3110.26');"/>
+<polygon fill="#000000" stroke="#000000" points="2011.889,-3109.9675 2008.0992,-3100.0737 2004.892,-3110.1714 2011.889,-3109.9675" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- BitMEX 
+ EL -->
+<g id="node28" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="124,-2920 16,-2848 124,-2776 232,-2848 124,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="124" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:124.578px 0px;transform-origin:0px 0px;text-anchor:middle;">BitMEX </text>
+<text text-anchor="middle" x="124" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:125.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- BitMEX 
+ landing table&#45;&gt;BitMEX 
+ EL -->
+<g id="edge19" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ landing table-&gt;BitMEX 
+ EL</title>
+<path fill="none" stroke="#000000" d="M124,-2955.8243C124,-2947.4801 124,-2938.9229 124,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 124 -2955.82 C 124 -2947.48 124 -2938.92 124 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="127.5001,-2930.1919 124,-2920.1919 120.5001,-2930.192 127.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- GDAX 
+ EL -->
+<g id="node29" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="828,-2920 720,-2848 828,-2776 936,-2848 828,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="828" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:828.578px 0px;transform-origin:0px 0px;text-anchor:middle;">GDAX </text>
+<text text-anchor="middle" x="828" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:829.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- GDAX 
+ landing table&#45;&gt;GDAX 
+ EL -->
+<g id="edge20" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ landing table-&gt;GDAX 
+ EL</title>
+<path fill="none" stroke="#000000" d="M828,-2955.8243C828,-2947.4801 828,-2938.9229 828,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 828 -2955.82 C 828 -2947.48 828 -2938.92 828 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="831.5001,-2930.1919 828,-2920.1919 824.5001,-2930.192 831.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Gemini 
+ EL -->
+<g id="node30" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="594,-2920 486,-2848 594,-2776 702,-2848 594,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="594" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:594.859px 0px;transform-origin:0px 0px;text-anchor:middle;">Gemini </text>
+<text text-anchor="middle" x="594" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:595.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Gemini 
+ &#160;landing table&#45;&gt;Gemini 
+ EL -->
+<g id="edge21" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+  landing table-&gt;Gemini 
+ EL</title>
+<path fill="none" stroke="#000000" d="M594,-2955.8243C594,-2947.4801 594,-2938.9229 594,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 594 -2955.82 C 594 -2947.48 594 -2938.92 594 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="597.5001,-2930.1919 594,-2920.1919 590.5001,-2930.192 597.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- OTC providers 
+ EL -->
+<g id="node31" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="359,-2920 250.2541,-2848 359,-2776 467.7459,-2848 359,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="359" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:361.219px 0px;transform-origin:0px 0px;text-anchor:middle;">OTC providers </text>
+<text text-anchor="middle" x="359" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:360.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- OTC providers 
+ landing table&#45;&gt;OTC providers 
+ EL -->
+<g id="edge22" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ landing table-&gt;OTC providers 
+ EL</title>
+<path fill="none" stroke="#000000" d="M359,-2955.8243C359,-2947.4801 359,-2938.9229 359,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 359 -2955.82 C 359 -2947.48 359 -2938.92 359 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="362.5001,-2930.1919 359,-2920.1919 355.5001,-2930.192 362.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Cold Storage 
+ Provider 
+ EL -->
+<g id="node32" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage 
+ Provider 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1062,-2920 954,-2848 1062,-2776 1170,-2848 1062,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1062" y="-2866" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1063.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Cold Storage </text>
+<text text-anchor="middle" x="1062" y="-2842" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1065.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> Provider </text>
+<text text-anchor="middle" x="1062" y="-2818" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1063.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Cold Storage Provider 
+ landing table&#45;&gt;Cold Storage 
+ Provider 
+ EL -->
+<g id="edge23" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage Provider 
+ landing table-&gt;Cold Storage 
+ Provider 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1062,-2955.8243C1062,-2947.4801 1062,-2938.9229 1062,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1062 -2955.82 C 1062 -2947.48 1062 -2938.92 1062 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1065.5001,-2930.1919 1062,-2920.1919 1058.5001,-2930.192 1065.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Blockchains 
+ EL -->
+<g id="node33" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1296,-2920 1188,-2848 1296,-2776 1404,-2848 1296,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1296" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1298.22px 0px;transform-origin:0px 0px;text-anchor:middle;">Blockchains </text>
+<text text-anchor="middle" x="1296" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1297.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Blockchains 
+ landing table&#45;&gt;Blockchains 
+ EL -->
+<g id="edge24" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ landing table-&gt;Blockchains 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1296,-2955.8243C1296,-2947.4801 1296,-2938.9229 1296,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1296 -2955.82 C 1296 -2947.48 1296 -2938.92 1296 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1299.5001,-2930.1919 1296,-2920.1919 1292.5001,-2930.192 1299.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Clearing House 
+ EL -->
+<g id="node34" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1768,-2920 1655.9417,-2848 1768,-2776 1880.0583,-2848 1768,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1768" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1769.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Clearing House </text>
+<text text-anchor="middle" x="1768" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1769.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Clearing House 
+ landing table&#45;&gt;Clearing House 
+ EL -->
+<g id="edge25" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ landing table-&gt;Clearing House 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1769.198,-2955.8243C1769.1028,-2947.2478 1769.005,-2938.4463 1768.9083,-2929.7486" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1769.2 -2955.82 C 1769.1 -2947.25 1769.01 -2938.45 1768.91 -2929.75');"/>
+<polygon fill="#000000" stroke="#000000" points="1772.4066,-2929.5659 1768.7956,-2919.6054 1765.407,-2929.6437 1772.4066,-2929.5659" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Market Maker 
+ EL -->
+<g id="node35" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1530,-2920 1422,-2848 1530,-2776 1638,-2848 1530,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1530" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1533.11px 0px;transform-origin:0px 0px;text-anchor:middle;">Market Maker </text>
+<text text-anchor="middle" x="1530" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1531.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Market Maker 
+ landing table&#45;&gt;Market Maker 
+ EL -->
+<g id="edge26" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ landing table-&gt;Market Maker 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1530,-2955.8243C1530,-2947.4801 1530,-2938.9229 1530,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1530 -2955.82 C 1530 -2947.48 1530 -2938.92 1530 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1533.5001,-2930.1919 1530,-2920.1919 1526.5001,-2930.192 1533.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Nasdaq 
+ EL -->
+<g id="node36" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="2006,-2920 1898,-2848 2006,-2776 2114,-2848 2006,-2920" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="2006" y="-2854" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2006.36px 0px;transform-origin:0px 0px;text-anchor:middle;">Nasdaq </text>
+<text text-anchor="middle" x="2006" y="-2830" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:2007.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Nasdaq 
+ landing table&#45;&gt;Nasdaq 
+ EL -->
+<g id="edge27" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ landing table-&gt;Nasdaq 
+ EL</title>
+<path fill="none" stroke="#000000" d="M2006,-2955.8243C2006,-2947.4801 2006,-2938.9229 2006,-2930.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 2006 -2955.82 C 2006 -2947.48 2006 -2938.92 2006 -2930.46');"/>
+<polygon fill="#000000" stroke="#000000" points="2009.5001,-2930.1919 2006,-2920.1919 2002.5001,-2930.192 2009.5001,-2930.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Crypto market 
+ data table -->
+<g id="node37" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto market 
+ data table</title>
+<path fill="none" stroke="#000000" d="M702,-2726.9091C702,-2734.1324 653.5927,-2740 594,-2740 534.4073,-2740 486,-2734.1324 486,-2726.9091 486,-2726.9091 486,-2609.0909 486,-2609.0909 486,-2601.8676 534.4073,-2596 594,-2596 653.5927,-2596 702,-2601.8676 702,-2609.0909 702,-2609.0909 702,-2726.9091 702,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -2726.91 C 702 -2734.13 653.593 -2740 594 -2740 C 534.407 -2740 486 -2734.13 486 -2726.91 C 486 -2726.91 486 -2609.09 486 -2609.09 C 486 -2601.87 534.407 -2596 594 -2596 C 653.593 -2596 702 -2601.87 702 -2609.09 C 702 -2609.09 702 -2726.91 702 -2726.91');"/>
+<path fill="none" stroke="#000000" d="M702,-2726.9091C702,-2719.6857 653.5927,-2713.8182 594,-2713.8182 534.4073,-2713.8182 486,-2719.6857 486,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 702 -2726.91 C 702 -2719.69 653.593 -2713.82 594 -2713.82 C 534.407 -2713.82 486 -2719.69 486 -2726.91');"/>
+<text text-anchor="middle" x="594" y="-2674" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:597.047px 0px;transform-origin:0px 0px;text-anchor:middle;">Crypto market </text>
+<text text-anchor="middle" x="594" y="-2650" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:595.094px 0px;transform-origin:0px 0px;text-anchor:middle;"> data table</text>
+</g>
+<!-- BitMEX 
+ EL&#45;&gt;Crypto market 
+ data table -->
+<g id="edge28" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">BitMEX 
+ EL-&gt;Crypto market 
+ data table</title>
+<path fill="none" stroke="#000000" d="M177.1751,-2811.3138C196.6567,-2798.9525 219.2642,-2785.8184 241,-2776 316.725,-2741.7938 406.2902,-2714.5338 476.2538,-2695.958" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 177.175 -2811.31 C 196.657 -2798.95 219.264 -2785.82 241 -2776 C 316.725 -2741.79 406.29 -2714.53 476.254 -2695.96');"/>
+<polygon fill="#000000" stroke="#000000" points="477.2127,-2699.3249 485.9924,-2693.3946 475.4308,-2692.5554 477.2127,-2699.3249" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- GDAX 
+ EL&#45;&gt;Crypto market 
+ data table -->
+<g id="edge29" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">GDAX 
+ EL-&gt;Crypto market 
+ data table</title>
+<path fill="none" stroke="#000000" d="M777.8011,-2809.3855C752.5298,-2789.946 721.0055,-2765.6965 691.2387,-2742.799" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 777.801 -2809.39 C 752.53 -2789.95 721.005 -2765.7 691.239 -2742.8');"/>
+<polygon fill="#000000" stroke="#000000" points="693.3667,-2740.0202 683.3064,-2736.6973 689.0987,-2745.5686 693.3667,-2740.0202" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Gemini 
+ EL&#45;&gt;Crypto market 
+ data table -->
+<g id="edge30" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Gemini 
+ EL-&gt;Crypto market 
+ data table</title>
+<path fill="none" stroke="#000000" d="M594,-2775.8243C594,-2767.4801 594,-2758.9229 594,-2750.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 594 -2775.82 C 594 -2767.48 594 -2758.92 594 -2750.46');"/>
+<polygon fill="#000000" stroke="#000000" points="597.5001,-2750.1919 594,-2740.1919 590.5001,-2750.192 597.5001,-2750.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- OTC providers 
+ EL&#45;&gt;Crypto market 
+ data table -->
+<g id="edge31" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">OTC providers 
+ EL-&gt;Crypto market 
+ data table</title>
+<path fill="none" stroke="#000000" d="M409.7022,-2809.1643C435.0936,-2789.7156 466.7168,-2765.4935 496.5607,-2742.6344" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 409.702 -2809.16 C 435.094 -2789.72 466.717 -2765.49 496.561 -2742.63');"/>
+<polygon fill="#000000" stroke="#000000" points="498.7025,-2745.4026 504.5131,-2736.5432 494.446,-2739.8454 498.7025,-2745.4026" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Crypto assets 
+ data table -->
+<g id="node38" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto assets 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1287,-2726.9091C1287,-2734.1324 1238.5927,-2740 1179,-2740 1119.4073,-2740 1071,-2734.1324 1071,-2726.9091 1071,-2726.9091 1071,-2609.0909 1071,-2609.0909 1071,-2601.8676 1119.4073,-2596 1179,-2596 1238.5927,-2596 1287,-2601.8676 1287,-2609.0909 1287,-2609.0909 1287,-2726.9091 1287,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1287 -2726.91 C 1287 -2734.13 1238.59 -2740 1179 -2740 C 1119.41 -2740 1071 -2734.13 1071 -2726.91 C 1071 -2726.91 1071 -2609.09 1071 -2609.09 C 1071 -2601.87 1119.41 -2596 1179 -2596 C 1238.59 -2596 1287 -2601.87 1287 -2609.09 C 1287 -2609.09 1287 -2726.91 1287 -2726.91');"/>
+<path fill="none" stroke="#000000" d="M1287,-2726.9091C1287,-2719.6857 1238.5927,-2713.8182 1179,-2713.8182 1119.4073,-2713.8182 1071,-2719.6857 1071,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1287 -2726.91 C 1287 -2719.69 1238.59 -2713.82 1179 -2713.82 C 1119.41 -2713.82 1071 -2719.69 1071 -2726.91');"/>
+<text text-anchor="middle" x="1179" y="-2674" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1181.23px 0px;transform-origin:0px 0px;text-anchor:middle;">Crypto assets </text>
+<text text-anchor="middle" x="1179" y="-2650" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1180.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> data table</text>
+</g>
+<!-- Cold Storage 
+ Provider 
+ EL&#45;&gt;Crypto assets 
+ data table -->
+<g id="edge32" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Cold Storage 
+ Provider 
+ EL-&gt;Crypto assets 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1094.9024,-2797.381C1104.7445,-2782.2392 1115.7908,-2765.2449 1126.5602,-2748.6767" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1094.9 -2797.38 C 1104.74 -2782.24 1115.79 -2765.24 1126.56 -2748.68');"/>
+<polygon fill="#000000" stroke="#000000" points="1129.6434,-2750.3554 1132.1588,-2740.0634 1123.7743,-2746.5404 1129.6434,-2750.3554" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Blockchains 
+ EL&#45;&gt;Crypto assets 
+ data table -->
+<g id="edge33" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Blockchains 
+ EL-&gt;Crypto assets 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1263.0976,-2797.381C1253.2555,-2782.2392 1242.2092,-2765.2449 1231.4398,-2748.6767" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1263.1 -2797.38 C 1253.26 -2782.24 1242.21 -2765.24 1231.44 -2748.68');"/>
+<polygon fill="#000000" stroke="#000000" points="1234.2257,-2746.5404 1225.8412,-2740.0634 1228.3566,-2750.3554 1234.2257,-2746.5404" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Certificate trade 
+ data table -->
+<g id="node39" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Certificate trade 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1757,-2726.9091C1757,-2734.1324 1708.5927,-2740 1649,-2740 1589.4073,-2740 1541,-2734.1324 1541,-2726.9091 1541,-2726.9091 1541,-2609.0909 1541,-2609.0909 1541,-2601.8676 1589.4073,-2596 1649,-2596 1708.5927,-2596 1757,-2601.8676 1757,-2609.0909 1757,-2609.0909 1757,-2726.9091 1757,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1757 -2726.91 C 1757 -2734.13 1708.59 -2740 1649 -2740 C 1589.41 -2740 1541 -2734.13 1541 -2726.91 C 1541 -2726.91 1541 -2609.09 1541 -2609.09 C 1541 -2601.87 1589.41 -2596 1649 -2596 C 1708.59 -2596 1757 -2601.87 1757 -2609.09 C 1757 -2609.09 1757 -2726.91 1757 -2726.91');"/>
+<path fill="none" stroke="#000000" d="M1757,-2726.9091C1757,-2719.6857 1708.5927,-2713.8182 1649,-2713.8182 1589.4073,-2713.8182 1541,-2719.6857 1541,-2726.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1757 -2726.91 C 1757 -2719.69 1708.59 -2713.82 1649 -2713.82 C 1589.41 -2713.82 1541 -2719.69 1541 -2726.91');"/>
+<text text-anchor="middle" x="1649" y="-2674" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1650.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Certificate trade </text>
+<text text-anchor="middle" x="1649" y="-2650" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1650.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> data table</text>
+</g>
+<!-- Clearing House 
+ EL&#45;&gt;Certificate trade 
+ data table -->
+<g id="edge34" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Clearing House 
+ EL-&gt;Certificate trade 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1734.5352,-2797.381C1724.5248,-2782.2392 1713.2897,-2765.2449 1702.3362,-2748.6767" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1734.54 -2797.38 C 1724.52 -2782.24 1713.29 -2765.24 1702.34 -2748.68');"/>
+<polygon fill="#000000" stroke="#000000" points="1705.0765,-2746.4751 1696.6419,-2740.0634 1699.2372,-2750.3355 1705.0765,-2746.4751" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Market Maker 
+ EL&#45;&gt;Certificate trade 
+ data table -->
+<g id="edge35" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Market Maker 
+ EL-&gt;Certificate trade 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1563.1481,-2797.86C1573.221,-2782.6236 1584.5567,-2765.4773 1595.6082,-2748.7607" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1563.15 -2797.86 C 1573.22 -2782.62 1584.56 -2765.48 1595.61 -2748.76');"/>
+<polygon fill="#000000" stroke="#000000" points="1598.7581,-2750.3426 1601.3534,-2740.0705 1592.9188,-2746.4821 1598.7581,-2750.3426" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Nasdaq 
+ EL&#45;&gt;Certificate trade 
+ data table -->
+<g id="edge36" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Nasdaq 
+ EL-&gt;Certificate trade 
+ data table</title>
+<path fill="none" stroke="#000000" d="M1951.2068,-2812.2652C1931.8642,-2800.1936 1909.7587,-2786.9994 1889,-2776 1849.8474,-2755.2544 1805.9183,-2734.7283 1766.4497,-2717.2325" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1951.21 -2812.27 C 1931.86 -2800.19 1909.76 -2787 1889 -2776 C 1849.85 -2755.25 1805.92 -2734.73 1766.45 -2717.23');"/>
+<polygon fill="#000000" stroke="#000000" points="1767.6099,-2713.9189 1757.048,-2713.0845 1764.7843,-2720.3233 1767.6099,-2713.9189" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Crypto market 
+ EL -->
+<g id="node40" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto market 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="809,-2534 701,-2462 809,-2390 917,-2462 809,-2534" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="809" y="-2468" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:812.047px 0px;transform-origin:0px 0px;text-anchor:middle;">Crypto market </text>
+<text text-anchor="middle" x="809" y="-2444" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Crypto market 
+ data table&#45;&gt;Crypto market 
+ EL -->
+<g id="edge37" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto market 
+ data table-&gt;Crypto market 
+ EL</title>
+<path fill="none" stroke="#000000" d="M667.69,-2597.3947C697.1348,-2569.1825 730.3474,-2537.3602 757.1722,-2511.6582" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 667.69 -2597.39 C 697.135 -2569.18 730.347 -2537.36 757.172 -2511.66');"/>
+<polygon fill="#000000" stroke="#000000" points="759.7612,-2514.0249 764.5604,-2504.5794 754.9183,-2508.9705 759.7612,-2514.0249" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Crypto assets 
+ EL -->
+<g id="node41" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto assets 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1063,-1814 955,-1742 1063,-1670 1171,-1742 1063,-1814" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1063" y="-1748" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1065.23px 0px;transform-origin:0px 0px;text-anchor:middle;">Crypto assets </text>
+<text text-anchor="middle" x="1063" y="-1724" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1064.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Crypto assets 
+ data table&#45;&gt;Crypto assets 
+ EL -->
+<g id="edge38" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto assets 
+ data table-&gt;Crypto assets 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1179,-2595.7913C1179,-2518.2413 1179,-2391.4002 1179,-2282 1179,-2282 1179,-2282 1179,-2102 1179,-1989.6821 1204.1028,-1953.2969 1160,-1850 1150.4318,-1827.5896 1134.2545,-1806.7016 1117.8252,-1789.3827" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1179 -2595.79 C 1179 -2518.24 1179 -2391.4 1179 -2282 C 1179 -2282 1179 -2282 1179 -2102 C 1179 -1989.68 1204.1 -1953.3 1160 -1850 C 1150.43 -1827.59 1134.25 -1806.7 1117.83 -1789.38');"/>
+<polygon fill="#000000" stroke="#000000" points="1120.281,-1786.8879 1110.7872,-1782.1848 1115.2759,-1791.7818 1120.281,-1786.8879" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Certificate trade 
+ EL -->
+<g id="node42" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Certificate trade 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="1304,-1814 1188.6752,-1742 1304,-1670 1419.3248,-1742 1304,-1814" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1304" y="-1748" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1305.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Certificate trade </text>
+<text text-anchor="middle" x="1304" y="-1724" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1305.23px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Certificate trade 
+ data table&#45;&gt;Certificate trade 
+ EL -->
+<g id="edge39" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Certificate trade 
+ data table-&gt;Certificate trade 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1594.4992,-2595.786C1543.7895,-2521.2847 1476,-2399.6823 1476,-2282 1476,-2282 1476,-2282 1476,-2102 1476,-1984.6856 1400.717,-1865.0285 1349.7629,-1797.476" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1594.5 -2595.79 C 1543.79 -2521.28 1476 -2399.68 1476 -2282 C 1476 -2282 1476 -2282 1476 -2102 C 1476 -1984.69 1400.72 -1865.03 1349.76 -1797.48');"/>
+<polygon fill="#000000" stroke="#000000" points="1352.5251,-1795.3264 1343.6762,-1789.4999 1346.9603,-1799.5729 1352.5251,-1795.3264" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Index engine 
+ input table -->
+<g id="node43" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M1151,-2340.9091C1151,-2348.1324 1102.5927,-2354 1043,-2354 983.4073,-2354 935,-2348.1324 935,-2340.9091 935,-2340.9091 935,-2223.0909 935,-2223.0909 935,-2215.8676 983.4073,-2210 1043,-2210 1102.5927,-2210 1151,-2215.8676 1151,-2223.0909 1151,-2223.0909 1151,-2340.9091 1151,-2340.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1151 -2340.91 C 1151 -2348.13 1102.59 -2354 1043 -2354 C 983.407 -2354 935 -2348.13 935 -2340.91 C 935 -2340.91 935 -2223.09 935 -2223.09 C 935 -2215.87 983.407 -2210 1043 -2210 C 1102.59 -2210 1151 -2215.87 1151 -2223.09 C 1151 -2223.09 1151 -2340.91 1151 -2340.91');"/>
+<path fill="none" stroke="#000000" d="M1151,-2340.9091C1151,-2333.6857 1102.5927,-2327.8182 1043,-2327.8182 983.4073,-2327.8182 935,-2333.6857 935,-2340.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1151 -2340.91 C 1151 -2333.69 1102.59 -2327.82 1043 -2327.82 C 983.407 -2327.82 935 -2333.69 935 -2340.91');"/>
+<text text-anchor="middle" x="1043" y="-2288" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1044.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Index engine </text>
+<text text-anchor="middle" x="1043" y="-2264" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1044.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> input table</text>
+</g>
+<!-- Crypto market 
+ EL&#45;&gt;Index engine 
+ input table -->
+<g id="edge40" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto market 
+ EL-&gt;Index engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M859.1989,-2423.3855C884.4702,-2403.946 915.9945,-2379.6965 945.7613,-2356.799" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 859.199 -2423.39 C 884.47 -2403.95 915.995 -2379.7 945.761 -2356.8');"/>
+<polygon fill="#000000" stroke="#000000" points="947.9013,-2359.5686 953.6936,-2350.6973 943.6333,-2354.0202 947.9013,-2359.5686" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- VWAP engine 
+ input table -->
+<g id="node44" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M917,-2340.9091C917,-2348.1324 868.5927,-2354 809,-2354 749.4073,-2354 701,-2348.1324 701,-2340.9091 701,-2340.9091 701,-2223.0909 701,-2223.0909 701,-2215.8676 749.4073,-2210 809,-2210 868.5927,-2210 917,-2215.8676 917,-2223.0909 917,-2223.0909 917,-2340.9091 917,-2340.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 917 -2340.91 C 917 -2348.13 868.593 -2354 809 -2354 C 749.407 -2354 701 -2348.13 701 -2340.91 C 701 -2340.91 701 -2223.09 701 -2223.09 C 701 -2215.87 749.407 -2210 809 -2210 C 868.593 -2210 917 -2215.87 917 -2223.09 C 917 -2223.09 917 -2340.91 917 -2340.91');"/>
+<path fill="none" stroke="#000000" d="M917,-2340.9091C917,-2333.6857 868.5927,-2327.8182 809,-2327.8182 749.4073,-2327.8182 701,-2333.6857 701,-2340.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 917 -2340.91 C 917 -2333.69 868.593 -2327.82 809 -2327.82 C 749.407 -2327.82 701 -2333.69 701 -2340.91');"/>
+<text text-anchor="middle" x="809" y="-2288" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.094px 0px;transform-origin:0px 0px;text-anchor:middle;">VWAP engine </text>
+<text text-anchor="middle" x="809" y="-2264" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.094px 0px;transform-origin:0px 0px;text-anchor:middle;"> input table</text>
+</g>
+<!-- Crypto market 
+ EL&#45;&gt;VWAP engine 
+ input table -->
+<g id="edge41" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto market 
+ EL-&gt;VWAP engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M809,-2389.8243C809,-2381.4801 809,-2372.9229 809,-2364.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 809 -2389.82 C 809 -2381.48 809 -2372.92 809 -2364.46');"/>
+<polygon fill="#000000" stroke="#000000" points="812.5001,-2364.1919 809,-2354.1919 805.5001,-2364.192 812.5001,-2364.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Volume engine 
+ input table -->
+<g id="node45" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M1166,-1620.9091C1166,-1628.1324 1117.5927,-1634 1058,-1634 998.4073,-1634 950,-1628.1324 950,-1620.9091 950,-1620.9091 950,-1503.0909 950,-1503.0909 950,-1495.8676 998.4073,-1490 1058,-1490 1117.5927,-1490 1166,-1495.8676 1166,-1503.0909 1166,-1503.0909 1166,-1620.9091 1166,-1620.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1166 -1620.91 C 1166 -1628.13 1117.59 -1634 1058 -1634 C 998.407 -1634 950 -1628.13 950 -1620.91 C 950 -1620.91 950 -1503.09 950 -1503.09 C 950 -1495.87 998.407 -1490 1058 -1490 C 1117.59 -1490 1166 -1495.87 1166 -1503.09 C 1166 -1503.09 1166 -1620.91 1166 -1620.91');"/>
+<path fill="none" stroke="#000000" d="M1166,-1620.9091C1166,-1613.6857 1117.5927,-1607.8182 1058,-1607.8182 998.4073,-1607.8182 950,-1613.6857 950,-1620.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1166 -1620.91 C 1166 -1613.69 1117.59 -1607.82 1058 -1607.82 C 998.407 -1607.82 950 -1613.69 950 -1620.91');"/>
+<text text-anchor="middle" x="1058" y="-1568" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1059.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Volume engine </text>
+<text text-anchor="middle" x="1058" y="-1544" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1059.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> input table</text>
+</g>
+<!-- Crypto assets 
+ EL&#45;&gt;Volume engine 
+ input table -->
+<g id="edge42" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Crypto assets 
+ EL-&gt;Volume engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M1061.031,-1671.1176C1060.7868,-1662.3256 1060.5355,-1653.2785 1060.287,-1644.333" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1061.03 -1671.12 C 1060.79 -1662.33 1060.54 -1653.28 1060.29 -1644.33');"/>
+<polygon fill="#000000" stroke="#000000" points="1063.7846,-1644.1946 1060.0082,-1634.2956 1056.7873,-1644.389 1063.7846,-1644.1946" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Certificate trade 
+ EL&#45;&gt;Volume engine 
+ input table -->
+<g id="edge43" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Certificate trade 
+ EL-&gt;Volume engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M1250.6217,-1702.9427C1223.8998,-1683.3901 1190.641,-1659.0544 1159.3191,-1636.136" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1250.62 -1702.94 C 1223.9 -1683.39 1190.64 -1659.05 1159.32 -1636.14');"/>
+<polygon fill="#000000" stroke="#000000" points="1161.1118,-1633.1108 1150.9747,-1630.0302 1156.9782,-1638.76 1161.1118,-1633.1108" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Index engine -->
+<g id="node47" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine</title>
+<polygon fill="none" stroke="#000000" points="1043,-2174 935,-2102 1043,-2030 1151,-2102 1043,-2174" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1043" y="-2096" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1044.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Index engine</text>
+</g>
+<!-- Index engine 
+ input table&#45;&gt;Index engine -->
+<g id="edge44" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine 
+ input table-&gt;Index engine</title>
+<path fill="none" stroke="#000000" d="M1043,-2209.8243C1043,-2201.4801 1043,-2192.9229 1043,-2184.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1043 -2209.82 C 1043 -2201.48 1043 -2192.92 1043 -2184.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1046.5001,-2184.1919 1043,-2174.1919 1039.5001,-2184.192 1046.5001,-2184.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- VWAP engine -->
+<g id="node48" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine</title>
+<polygon fill="none" stroke="#000000" points="809,-2174 701,-2102 809,-2030 917,-2102 809,-2174" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="809" y="-2096" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.094px 0px;transform-origin:0px 0px;text-anchor:middle;">VWAP engine</text>
+</g>
+<!-- VWAP engine 
+ input table&#45;&gt;VWAP engine -->
+<g id="edge45" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine 
+ input table-&gt;VWAP engine</title>
+<path fill="none" stroke="#000000" d="M809,-2209.8243C809,-2201.4801 809,-2192.9229 809,-2184.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 809 -2209.82 C 809 -2201.48 809 -2192.92 809 -2184.46');"/>
+<polygon fill="#000000" stroke="#000000" points="812.5001,-2184.1919 809,-2174.1919 805.5001,-2184.192 812.5001,-2184.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Volume engine -->
+<g id="node49" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine</title>
+<polygon fill="none" stroke="#000000" points="1030,-1454 922,-1382 1030,-1310 1138,-1382 1030,-1454" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="1030" y="-1376" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1031.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Volume engine</text>
+</g>
+<!-- Volume engine 
+ input table&#45;&gt;Volume engine -->
+<g id="edge46" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine 
+ input table-&gt;Volume engine</title>
+<path fill="none" stroke="#000000" d="M1046.7727,-1489.8243C1045.1239,-1479.2252 1043.4217,-1468.2825 1041.7626,-1457.6165" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1046.77 -1489.82 C 1045.12 -1479.23 1043.42 -1468.28 1041.76 -1457.62');"/>
+<polygon fill="#000000" stroke="#000000" points="1045.1837,-1456.8385 1040.1882,-1447.4953 1038.2669,-1457.9145 1045.1837,-1456.8385" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Order engine 
+ input table -->
+<g id="node46" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M1046,-900.9091C1046,-908.1324 997.5927,-914 938,-914 878.4073,-914 830,-908.1324 830,-900.9091 830,-900.9091 830,-783.0909 830,-783.0909 830,-775.8676 878.4073,-770 938,-770 997.5927,-770 1046,-775.8676 1046,-783.0909 1046,-783.0909 1046,-900.9091 1046,-900.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1046 -900.909 C 1046 -908.132 997.593 -914 938 -914 C 878.407 -914 830 -908.132 830 -900.909 C 830 -900.909 830 -783.091 830 -783.091 C 830 -775.868 878.407 -770 938 -770 C 997.593 -770 1046 -775.868 1046 -783.091 C 1046 -783.091 1046 -900.909 1046 -900.909');"/>
+<path fill="none" stroke="#000000" d="M1046,-900.9091C1046,-893.6857 997.5927,-887.8182 938,-887.8182 878.4073,-887.8182 830,-893.6857 830,-900.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1046 -900.909 C 1046 -893.686 997.593 -887.818 938 -887.818 C 878.407 -887.818 830 -893.686 830 -900.909');"/>
+<text text-anchor="middle" x="938" y="-848" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;">Order engine </text>
+<text text-anchor="middle" x="938" y="-824" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;"> input table</text>
+</g>
+<!-- Order engine -->
+<g id="node50" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine</title>
+<polygon fill="none" stroke="#000000" points="938,-734 830,-662 938,-590 1046,-662 938,-734" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="938" y="-656" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;">Order engine</text>
+</g>
+<!-- Order engine 
+ input table&#45;&gt;Order engine -->
+<g id="edge47" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine 
+ input table-&gt;Order engine</title>
+<path fill="none" stroke="#000000" d="M938,-769.8243C938,-761.4801 938,-752.9229 938,-744.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 938 -769.824 C 938 -761.48 938 -752.923 938 -744.456');"/>
+<polygon fill="#000000" stroke="#000000" points="941.5001,-744.1919 938,-734.1919 934.5001,-744.192 941.5001,-744.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Index engine 
+ output table -->
+<g id="node51" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M1151,-1980.9091C1151,-1988.1324 1102.5927,-1994 1043,-1994 983.4073,-1994 935,-1988.1324 935,-1980.9091 935,-1980.9091 935,-1863.0909 935,-1863.0909 935,-1855.8676 983.4073,-1850 1043,-1850 1102.5927,-1850 1151,-1855.8676 1151,-1863.0909 1151,-1863.0909 1151,-1980.9091 1151,-1980.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1151 -1980.91 C 1151 -1988.13 1102.59 -1994 1043 -1994 C 983.407 -1994 935 -1988.13 935 -1980.91 C 935 -1980.91 935 -1863.09 935 -1863.09 C 935 -1855.87 983.407 -1850 1043 -1850 C 1102.59 -1850 1151 -1855.87 1151 -1863.09 C 1151 -1863.09 1151 -1980.91 1151 -1980.91');"/>
+<path fill="none" stroke="#000000" d="M1151,-1980.9091C1151,-1973.6857 1102.5927,-1967.8182 1043,-1967.8182 983.4073,-1967.8182 935,-1973.6857 935,-1980.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1151 -1980.91 C 1151 -1973.69 1102.59 -1967.82 1043 -1967.82 C 983.407 -1967.82 935 -1973.69 935 -1980.91');"/>
+<text text-anchor="middle" x="1043" y="-1928" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1044.09px 0px;transform-origin:0px 0px;text-anchor:middle;">Index engine </text>
+<text text-anchor="middle" x="1043" y="-1904" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1044.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> output table</text>
+</g>
+<!-- Index engine&#45;&gt;Index engine 
+ output table -->
+<g id="edge48" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine-&gt;Index engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M1043,-2029.8243C1043,-2021.4801 1043,-2012.9229 1043,-2004.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1043 -2029.82 C 1043 -2021.48 1043 -2012.92 1043 -2004.46');"/>
+<polygon fill="#000000" stroke="#000000" points="1046.5001,-2004.1919 1043,-1994.1919 1039.5001,-2004.192 1046.5001,-2004.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- VWAP engine 
+ output table -->
+<g id="node52" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M917,-1980.9091C917,-1988.1324 868.5927,-1994 809,-1994 749.4073,-1994 701,-1988.1324 701,-1980.9091 701,-1980.9091 701,-1863.0909 701,-1863.0909 701,-1855.8676 749.4073,-1850 809,-1850 868.5927,-1850 917,-1855.8676 917,-1863.0909 917,-1863.0909 917,-1980.9091 917,-1980.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 917 -1980.91 C 917 -1988.13 868.593 -1994 809 -1994 C 749.407 -1994 701 -1988.13 701 -1980.91 C 701 -1980.91 701 -1863.09 701 -1863.09 C 701 -1855.87 749.407 -1850 809 -1850 C 868.593 -1850 917 -1855.87 917 -1863.09 C 917 -1863.09 917 -1980.91 917 -1980.91');"/>
+<path fill="none" stroke="#000000" d="M917,-1980.9091C917,-1973.6857 868.5927,-1967.8182 809,-1967.8182 749.4073,-1967.8182 701,-1973.6857 701,-1980.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 917 -1980.91 C 917 -1973.69 868.593 -1967.82 809 -1967.82 C 749.407 -1967.82 701 -1973.69 701 -1980.91');"/>
+<text text-anchor="middle" x="809" y="-1928" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.094px 0px;transform-origin:0px 0px;text-anchor:middle;">VWAP engine </text>
+<text text-anchor="middle" x="809" y="-1904" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:810.094px 0px;transform-origin:0px 0px;text-anchor:middle;"> output table</text>
+</g>
+<!-- VWAP engine&#45;&gt;VWAP engine 
+ output table -->
+<g id="edge51" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine-&gt;VWAP engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M809,-2029.8243C809,-2021.4801 809,-2012.9229 809,-2004.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 809 -2029.82 C 809 -2021.48 809 -2012.92 809 -2004.46');"/>
+<polygon fill="#000000" stroke="#000000" points="812.5001,-2004.1919 809,-1994.1919 805.5001,-2004.192 812.5001,-2004.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Volume engine 
+ output table -->
+<g id="node53" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M1124,-1260.9091C1124,-1268.1324 1075.5927,-1274 1016,-1274 956.4073,-1274 908,-1268.1324 908,-1260.9091 908,-1260.9091 908,-1143.0909 908,-1143.0909 908,-1135.8676 956.4073,-1130 1016,-1130 1075.5927,-1130 1124,-1135.8676 1124,-1143.0909 1124,-1143.0909 1124,-1260.9091 1124,-1260.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1124 -1260.91 C 1124 -1268.13 1075.59 -1274 1016 -1274 C 956.407 -1274 908 -1268.13 908 -1260.91 C 908 -1260.91 908 -1143.09 908 -1143.09 C 908 -1135.87 956.407 -1130 1016 -1130 C 1075.59 -1130 1124 -1135.87 1124 -1143.09 C 1124 -1143.09 1124 -1260.91 1124 -1260.91');"/>
+<path fill="none" stroke="#000000" d="M1124,-1260.9091C1124,-1253.6857 1075.5927,-1247.8182 1016,-1247.8182 956.4073,-1247.8182 908,-1253.6857 908,-1260.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1124 -1260.91 C 1124 -1253.69 1075.59 -1247.82 1016 -1247.82 C 956.407 -1247.82 908 -1253.69 908 -1260.91');"/>
+<text text-anchor="middle" x="1016" y="-1208" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1017.08px 0px;transform-origin:0px 0px;text-anchor:middle;">Volume engine </text>
+<text text-anchor="middle" x="1016" y="-1184" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:1017.09px 0px;transform-origin:0px 0px;text-anchor:middle;"> output table</text>
+</g>
+<!-- Volume engine&#45;&gt;Volume engine 
+ output table -->
+<g id="edge54" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine-&gt;Volume engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M1024.6673,-1313.4362C1023.9274,-1303.9241 1023.1612,-1294.0728 1022.4044,-1284.3417" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1024.67 -1313.44 C 1023.93 -1303.92 1023.16 -1294.07 1022.4 -1284.34');"/>
+<polygon fill="#000000" stroke="#000000" points="1025.8855,-1283.9622 1021.6205,-1274.2638 1018.9066,-1284.5051 1025.8855,-1283.9622" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Order engine 
+ output table -->
+<g id="node54" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M1046,-540.9091C1046,-548.1324 997.5927,-554 938,-554 878.4073,-554 830,-548.1324 830,-540.9091 830,-540.9091 830,-423.0909 830,-423.0909 830,-415.8676 878.4073,-410 938,-410 997.5927,-410 1046,-415.8676 1046,-423.0909 1046,-423.0909 1046,-540.9091 1046,-540.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1046 -540.909 C 1046 -548.132 997.593 -554 938 -554 C 878.407 -554 830 -548.132 830 -540.909 C 830 -540.909 830 -423.091 830 -423.091 C 830 -415.868 878.407 -410 938 -410 C 997.593 -410 1046 -415.868 1046 -423.091 C 1046 -423.091 1046 -540.909 1046 -540.909');"/>
+<path fill="none" stroke="#000000" d="M1046,-540.9091C1046,-533.6857 997.5927,-527.8182 938,-527.8182 878.4073,-527.8182 830,-533.6857 830,-540.9091" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1046 -540.909 C 1046 -533.686 997.593 -527.818 938 -527.818 C 878.407 -527.818 830 -533.686 830 -540.909');"/>
+<text text-anchor="middle" x="938" y="-488" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;">Order engine </text>
+<text text-anchor="middle" x="938" y="-464" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;"> output table</text>
+</g>
+<!-- Order engine&#45;&gt;Order engine 
+ output table -->
+<g id="edge57" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine-&gt;Order engine 
+ output table</title>
+<path fill="none" stroke="#000000" d="M938,-589.8243C938,-581.4801 938,-572.9229 938,-564.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 938 -589.824 C 938 -581.48 938 -572.923 938 -564.456');"/>
+<polygon fill="#000000" stroke="#000000" points="941.5001,-564.1919 938,-554.1919 934.5001,-564.192 941.5001,-564.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Index data 
+ EL -->
+<g id="node55" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index data 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="829,-1814 721,-1742 829,-1670 937,-1742 829,-1814" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="829" y="-1748" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:830.219px 0px;transform-origin:0px 0px;text-anchor:middle;">Index data </text>
+<text text-anchor="middle" x="829" y="-1724" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:830.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Index engine 
+ output table&#45;&gt;Index data 
+ EL -->
+<g id="edge49" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index engine 
+ output table-&gt;Index data 
+ EL</title>
+<path fill="none" stroke="#000000" d="M960.5681,-1852.6648C935.1797,-1831.31 907.8405,-1808.3144 884.6966,-1788.8476" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 960.568 -1852.66 C 935.18 -1831.31 907.841 -1808.31 884.697 -1788.85');"/>
+<polygon fill="#000000" stroke="#000000" points="886.9232,-1786.147 877.0174,-1782.3885 882.4173,-1791.504 886.9232,-1786.147" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- VWAP data 
+ EL -->
+<g id="node56" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP data 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="819,-1634 711,-1562 819,-1490 927,-1562 819,-1634" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="819" y="-1568" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:820.234px 0px;transform-origin:0px 0px;text-anchor:middle;">VWAP data </text>
+<text text-anchor="middle" x="819" y="-1544" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:820.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- VWAP engine 
+ output table&#45;&gt;VWAP data 
+ EL -->
+<g id="edge52" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP engine 
+ output table-&gt;VWAP data 
+ EL</title>
+<path fill="none" stroke="#000000" d="M733.3709,-1851.6854C724.6653,-1839.9849 717.0946,-1827.2967 712,-1814 689.1017,-1754.2366 687.6458,-1729.1851 712,-1670 722.0638,-1645.543 740.6417,-1623.6859 759.5269,-1606.1402" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 733.371 -1851.69 C 724.665 -1839.98 717.095 -1827.3 712 -1814 C 689.102 -1754.24 687.646 -1729.19 712 -1670 C 722.064 -1645.54 740.642 -1623.69 759.527 -1606.14');"/>
+<polygon fill="#000000" stroke="#000000" points="761.9458,-1608.6721 767.0447,-1599.3849 757.2671,-1603.4654 761.9458,-1608.6721" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Volume data 
+ EL -->
+<g id="node57" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume data 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="988,-1094 880,-1022 988,-950 1096,-1022 988,-1094" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="988" y="-1028" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:989.234px 0px;transform-origin:0px 0px;text-anchor:middle;">Volume data </text>
+<text text-anchor="middle" x="988" y="-1004" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:989.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Volume engine 
+ output table&#45;&gt;Volume data 
+ EL -->
+<g id="edge55" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume engine 
+ output table-&gt;Volume data 
+ EL</title>
+<path fill="none" stroke="#000000" d="M1004.7727,-1129.8243C1003.1239,-1119.2252 1001.4217,-1108.2825 999.7626,-1097.6165" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 1004.77 -1129.82 C 1003.12 -1119.23 1001.42 -1108.28 999.763 -1097.62');"/>
+<polygon fill="#000000" stroke="#000000" points="1003.1837,-1096.8385 998.1882,-1087.4953 996.2669,-1097.9145 1003.1837,-1096.8385" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Order data 
+ EL -->
+<g id="node58" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order data 
+ EL</title>
+<polygon fill="none" stroke="#000000" points="938,-374 830,-302 938,-230 1046,-302 938,-374" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="938" y="-308" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.219px 0px;transform-origin:0px 0px;text-anchor:middle;">Order data </text>
+<text text-anchor="middle" x="938" y="-284" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.234px 0px;transform-origin:0px 0px;text-anchor:middle;"> EL</text>
+</g>
+<!-- Order engine 
+ output table&#45;&gt;Order data 
+ EL -->
+<g id="edge58" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order engine 
+ output table-&gt;Order data 
+ EL</title>
+<path fill="none" stroke="#000000" d="M938,-409.8243C938,-401.4801 938,-392.9229 938,-384.4555" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 938 -409.824 C 938 -401.48 938 -392.923 938 -384.456');"/>
+<polygon fill="#000000" stroke="#000000" points="941.5001,-384.1919 938,-374.1919 934.5001,-384.192 941.5001,-384.1919" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Index data 
+ EL&#45;&gt;Volume engine 
+ input table -->
+<g id="edge50" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Index data 
+ EL-&gt;Volume engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M878.6896,-1702.9427C903.2185,-1683.6623 933.6643,-1659.7311 962.4637,-1637.094" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 878.69 -1702.94 C 903.219 -1683.66 933.664 -1659.73 962.464 -1637.09');"/>
+<polygon fill="#000000" stroke="#000000" points="964.8376,-1639.6799 970.5367,-1630.7485 960.5117,-1634.1765 964.8376,-1639.6799" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- VWAP data 
+ EL&#45;&gt;Order engine 
+ input table -->
+<g id="edge53" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">VWAP data 
+ EL-&gt;Order engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M814.584,-1492.9114C809.4334,-1377.3081 808.4395,-1138.7738 871,-950 873.988,-940.9839 877.8655,-931.9463 882.2489,-923.1493" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 814.584 -1492.91 C 809.433 -1377.31 808.44 -1138.77 871 -950 C 873.988 -940.984 877.865 -931.946 882.249 -923.149');"/>
+<polygon fill="#000000" stroke="#000000" points="885.4584,-924.5643 886.984,-914.0799 879.2532,-921.3246 885.4584,-924.5643" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- Volume data 
+ EL&#45;&gt;Order engine 
+ input table -->
+<g id="edge56" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Volume data 
+ EL-&gt;Order engine 
+ input table</title>
+<path fill="none" stroke="#000000" d="M971.0723,-961.0602C967.7638,-949.1496 964.244,-936.4783 960.7814,-924.0129" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 971.072 -961.06 C 967.764 -949.15 964.244 -936.478 960.781 -924.013');"/>
+<polygon fill="#000000" stroke="#000000" points="964.0707,-922.777 958.0218,-914.0786 957.326,-924.6506 964.0707,-922.777" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+<!-- User interface -->
+<g id="node59" class="node" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">User interface</title>
+<polygon fill="none" stroke="#000000" points="1046,-62.1766 1046,-121.8234 982.7351,-164 893.2649,-164 830,-121.8234 830,-62.1766 893.2649,-20 982.7351,-20 1046,-62.1766" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<polygon fill="none" stroke="#000000" points="1050,-60.0359 1050,-123.9641 983.9462,-168 892.0538,-168 826,-123.9641 826,-60.0359 892.0538,-16 983.9462,-16 1050,-60.0359" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);"/>
+<text text-anchor="middle" x="938" y="-86" font-family="Montserrat" font-size="20.00" fill="#000000" style="display:block;font-family:Montserrat;font-size:20px;height:auto;overflow-x:visible;overflow-y:visible;white-space:nowrap;width:auto;perspective-origin:939.094px 0px;transform-origin:0px 0px;text-anchor:middle;">User interface</text>
+</g>
+<!-- Order data 
+ EL&#45;&gt;User interface -->
+<g id="edge59" class="edge" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;">
+<title style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:50% 50%;transform-origin:0px 0px;">Order data 
+ EL-&gt;User interface</title>
+<path fill="none" stroke="#000000" d="M938,-229.7299C938,-213.3219 938,-195.7291 938,-178.7886" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;fill:none;stroke:rgb(0, 0, 0);d:path('M 938 -229.73 C 938 -213.322 938 -195.729 938 -178.789');"/>
+<polygon fill="#000000" stroke="#000000" points="941.5001,-178.3415 938,-168.3415 934.5001,-178.3416 941.5001,-178.3415" style="height:auto;overflow-x:visible;overflow-y:visible;width:auto;perspective-origin:0px 0px;transform-origin:0px 0px;stroke:rgb(0, 0, 0);"/>
+</g>
+</g>
+</svg>
