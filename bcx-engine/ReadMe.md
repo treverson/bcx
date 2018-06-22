@@ -1,22 +1,4 @@
-## [Gentelella Admin Template](https://github.com/puikinsh/gentelella)
+## bcx trading engine
 
-#### Steps
-[Optional] [Set up a virtualenv and activate](http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/) 
+bcx trading engine is a passive trading engine that tracks any crypto currency investment strategy by minimizing marter risk exposure. In order to measure market risk exposure the engine uses trackning error as well as the USD seconds measure. The USD seconds measure is the difference in value, measured in USD, between present portfolio and target portfolio multiplied with the number of seconds the differnece were present. 
 
-##### Get the code
-    git clone https://github.com/GiriB/django-gentelella.git
-    cd django-gentelella
-
-##### Install requirements 
-    pip install -r requirements.txt
-
-##### Run the code
-    cd gentelella
-    python manage.py runserver 
-    
-##### Behold!
-Go to http://localhost:8000/
-
-###### Contributors 
-[@GiriB](https://github.com/GiriB)  
-[@johnnycakes79](https://github.com/johnnycakes79)
