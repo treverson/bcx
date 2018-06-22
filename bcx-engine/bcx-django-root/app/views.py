@@ -11,8 +11,8 @@ def index(request):
 
 def gentella_html(request):
     context = {}
-    # The template to be loaded as per gentelella.
-    # All resource paths for gentelella end in .html.
+    # The template to be loaded as per bcx-django.
+    # All resource paths for bcx-django end in .html.
 
     # Pick out the html file name from the url. And load that template.
     load_template = request.path.split('/')[-1]
